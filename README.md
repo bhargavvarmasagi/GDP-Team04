@@ -11,3 +11,7 @@ Initial requirements gathering, documented functional and non-functional require
 
 Analyzing :-(09/04/2024)
 Analyzed existing grocery delivery apps in Maryville. Documented features, user feedback, and market trends.
+
+
+Research :-(09/04/2024)
+Researched and reviewed academic papers on grocery delivery apps. Examined how they affected customer behavior and found key trends.
