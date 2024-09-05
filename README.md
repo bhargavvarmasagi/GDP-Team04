@@ -8,3 +8,6 @@ Analyzed the project flowchart to understand and refine the workflow and structu
 
 Requirement Gathering :- (09/04/2024)
 Initial requirements gathering, documented functional and non-functional requirements for the Maryville Grocery Delivery App.
+
+Analyzing :-(09/04/2024)
+Analyzed existing grocery delivery apps in Maryville. Documented features, user feedback, and market trends.
