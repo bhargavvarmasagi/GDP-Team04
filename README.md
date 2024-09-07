@@ -21,3 +21,6 @@ Created a page "About the developers", added team members details and added the 
 
 Documented the minutes from the client meeting:- (9/6/24) 
 I have Updated the client meeting minutes details on the wiki pages, including comprehensive notes from the meeting held on 9/4/2024.
+
+Problem Statement: (9/6/24) <br>
+Drafted the problem statement, detailing the inefficiencies in the client’s existing process without suggesting solutions. Added the page to the main wiki with a focus on clarity and thoroughness.
