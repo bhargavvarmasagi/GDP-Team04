@@ -19,7 +19,6 @@ Researched and reviewed academic papers on grocery delivery apps. Examined how t
 Creation of About the developers page:- (9/6/24)
 Created a page "About the developers", added team members details and added the page link to main wiki page.Discussed about project charter with team members.
 
-Client Meeting Minutes:- (9/6/24)<br>
-- Documented minutes from the client meeting held on 9/6/24.<br>
-- Reviewed team roles and responsibilities.<br>
-
+Documented the minutes from the client meeting held on 9/4/2024
+- where we discussed functional and non-functional requirements, team roles, and reference organization.<br>
+- Also planned the next client presentation and set action items for the team. The next meeting is scheduled for 9/13/2024.<br>
