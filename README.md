@@ -18,3 +18,6 @@ Researched and reviewed academic papers on grocery delivery apps. Examined how t
 
 Creation of About the developers page:- (9/6/24)
 Created a page "About the developers", added team members details and added the page link to main wiki page.Discussed about project charter with team members.
+
+Client Meeting Minutes
+Documented minutes from the client meeting held on 9/6/24.
