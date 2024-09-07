@@ -15,3 +15,6 @@ Analyzed existing grocery delivery apps in Maryville. Documented features, user 
 
 Research :-(09/04/2024)
 Researched and reviewed academic papers on grocery delivery apps. Examined how they affected customer behavior and found key trends.
+
+Creation of About the developers page:- (9/6/24)
+Created a page "About the developers", added team members details and added the page link to main wiki page.Discussed about project charter with team members.
