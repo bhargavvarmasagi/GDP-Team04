@@ -31,3 +31,6 @@ Completed the problem statement based on client discussions, highlighting the fl
 Project Charter Development: (09/06/2024)
 I've updated the information to provide a clear explanation of the problem, the reason for overcoming it, and a brief overview of the most important characteristics and functionalities.
 
+Research about search and filter functions: (9/9/24)
+I researched how to make a store catalog with search and filtering capabilities. I gathered information on how to make it user-friendly and efficient for finding products fast. I also explored some techniques to improve search accuracy and make filtering options easier for users.
+
