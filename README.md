@@ -41,3 +41,6 @@ Research on Customer Reviews and Ratings: (9/9/24)
 I investigated how to implement effective customer reviews and ratings for products and stores, focusing on enhancing credibility and user engagement. I explored strategies for managing feedback, including combating fake reviews and making the review process user-friendly.
 
 
+Research on Load Balancing for Peak Order Times: (9/9/2024)
+
+I studied ways to evenly distribute website traffic during busy order times to prevent crashes and keep things running smoothly. I focused on methods that help split the load across multiple servers, ensuring faster performance and minimizing downtime when demand is high. This improves the user experience by keeping the site responsive during peak hours.
