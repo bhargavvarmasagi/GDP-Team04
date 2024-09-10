@@ -36,3 +36,8 @@ I researched how to make a store catalog with search and filtering capabilities.
 
 Research on online orders and tracking: (09/09/2024)
 I looked into how payments are processed and orders are placed online, with a priority on implementing real-time tracking for increased productivity and customer happiness, guaranteeing secure transactions, and developing an effortless user experience.
+
+Research on Customer Reviews and Ratings: (9/9/24)
+I investigated how to implement effective customer reviews and ratings for products and stores, focusing on enhancing credibility and user engagement. I explored strategies for managing feedback, including combating fake reviews and making the review process user-friendly.
+
+
