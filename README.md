@@ -52,3 +52,6 @@ Analyzed effective methods for integrating customer reviews and ratings based on
 
 Researched Security Measures for User Data Protection: (09/11/2024)
 Explored best practices for securing user data during transactions, focusing on encryption and secure authentication methods to enhance the app’s security and user trust.
+
+Research on Efficient Inventory Management Techniques (09/11/2024)
+Explored various methods for managing inventory efficiently within a grocery delivery app. Focused on strategies for real-time inventory tracking, stock level management, and automated restocking processes. 
