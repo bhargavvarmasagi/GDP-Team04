@@ -58,3 +58,6 @@ Explored various methods for managing inventory efficiently within a grocery del
 
 Further research on search and filter functions: (9/11/2024)
 I looked into ways to improve the functionality of the search and filter features, especially in cases where there are a lot of products. I looked into speeding up search results, lowering amount of work the system should do, and making filters change depending on what the user selects. I additionally explored ways to provide consumers with customized search recommendations and simplify challenging searches.
+
+Analyzing the Admin Functionality : (09/11/2024)
+Discussed on the admin dashboard's ability to track platform performance, including active users ,partner stores,dashers available to deliver and others.Getting information of daily,weekly, monthly reports of service fees and delivery charges.And reviewed how administrator monitors the fraudlent activities such as improper transactions and suspicious user behaviour.
