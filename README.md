@@ -55,3 +55,6 @@ Explored best practices for securing user data during transactions, focusing on 
 
 Research on Efficient Inventory Management Techniques (09/11/2024)
 Explored various methods for managing inventory efficiently within a grocery delivery app. Focused on strategies for real-time inventory tracking, stock level management, and automated restocking processes. 
+
+Further research on search and filter functions: (9/11/2024)
+I looked into ways to improve the functionality of the search and filter features, especially in cases where there are a lot of products. I looked into speeding up search results, lowering amount of work the system should do, and making filters change depending on what the user selects. I additionally explored ways to provide consumers with customized search recommendations and simplify challenging searches.
