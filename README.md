@@ -49,3 +49,6 @@ I investigated how location-based services can improve the accuracy of delivery 
 
 Further Analysis on Customer Reviews and Ratings: (09/11/2024)
 Analyzed effective methods for integrating customer reviews and ratings based on research.Explored additional strategies for managing feedback and preventing fake reviews.Examined additional strategies for managing user feedback and moderating content to prevent fake reviews.
+
+Researched Security Measures for User Data Protection: (09/11/2024)
+Explored best practices for securing user data during transactions, focusing on encryption and secure authentication methods to enhance the app’s security and user trust.
