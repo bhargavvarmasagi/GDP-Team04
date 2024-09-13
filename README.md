@@ -61,3 +61,6 @@ I looked into ways to improve the functionality of the search and filter feature
 
 Analyzing the Admin Functionality : (09/11/2024)
 Discussed on the admin dashboard's ability to track platform performance, including active users ,partner stores,dashers available to deliver and others.Getting information of daily,weekly, monthly reports of service fees and delivery charges.And reviewed how administrator monitors the fraudlent activities such as improper transactions and suspicious user behaviour.
+
+Added 'Functional Requirements List' wiki page: (9/13/2024)  
+Created the wiki page 'Functional Requirements List (Iteration 1) outlining key system functionalities, including store catalog with product details, filtering options, online ordering with real-time inventory checks, and secure payment processing with saved payment methods.
