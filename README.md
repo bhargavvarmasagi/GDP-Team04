@@ -67,3 +67,7 @@ Created the wiki page 'Functional Requirements List (Iteration 1) outlining key 
 
 Added new requirements in 'Functional requirements list' document & wiki page: (9/13/2024)
 Added new functional requirements in the "Functional Requirements List (Iteration 1)" to include real-time order tracking and shipment status, GPS-based tracking for delivery personnel, notifications for order status updates, enhanced data security with encryption, and customer reviews and ratings features.
+
+Added new statements in the specified format in 'Functional requirements list' document and in wiki page: (09/13/2024)
+The statements of functional requirements that include load distribution, location-based services, product and store suggestions, saved payment options, integration of third parties, data management, performance problems have been added in the 'Functionl Requirements list' and also in wiki page.
+ 
