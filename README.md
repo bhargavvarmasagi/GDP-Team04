@@ -64,3 +64,6 @@ Discussed on the admin dashboard's ability to track platform performance, includ
 
 Added 'Functional Requirements List' wiki page: (9/13/2024)  
 Created the wiki page 'Functional Requirements List (Iteration 1) outlining key system functionalities, including store catalog with product details, filtering options, online ordering with real-time inventory checks, and secure payment processing with saved payment methods.
+
+Added new requirements in 'Functional requirements list' document & wiki page: (9/13/2024)
+Added new functional requirements in the "Functional Requirements List (Iteration 1)" to include real-time order tracking and shipment status, GPS-based tracking for delivery personnel, notifications for order status updates, enhanced data security with encryption, and customer reviews and ratings features.
