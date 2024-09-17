@@ -84,3 +84,8 @@ Research on load balancing during periods of high demand: (09/16/2024) I investi
 
 Created the updated wiki page and made changes in the Investigation:Requirements Engineering document :(09/16/2024)
 I have created an updated wiki page for the Investigation:Requirements Engineering document.And also made some of the changes that mentioned by the client in the meeting. Added the respective roles like manager, developer and other roles to the people in our group and made some changes in the functional and non-functional requirements answer.
+
+
+Looked into Real-Time GPS Tracking for Delivery Drivers: (09/16/2024)
+I researched different GPS tracking options to help us track delivery drivers in real-time. The goal is to give customers live updates on the driver's location and estimate when their order will arrive. I focused on finding reliable systems that can keep tracking the drivers without any interruptions and ensure the information stays accurate.
+
