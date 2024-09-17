@@ -76,3 +76,6 @@ Following the client meeting, I have updated the 'Action Items' section of our d
 
 Updated 'Client Feedback' section in the project documentation: (9/13/2024)
 I’ve added a new section to the project documentation that captures the client’s feedback from our recent meeting. This includes any new requests, clarifications, or adjustments to the project scope. This update ensures that all client input is recorded and integrated into our ongoing research and documentation efforts.
+
+Created an updated wiki page for Functional Requirements list: (9/16/2024)
+I've created a new wiki page with the updated functional requirements(iteration 1), including the changes mentioned by the client today. I also looked into the differences between functional and non-functional requirements to make sure everything is correctly classified in the updated list.
