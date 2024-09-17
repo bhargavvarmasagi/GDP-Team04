@@ -89,3 +89,8 @@ I have created an updated wiki page for the Investigation:Requirements Engineeri
 Looked into Real-Time GPS Tracking for Delivery Drivers: (09/16/2024)
 I researched different GPS tracking options to help us track delivery drivers in real-time. The goal is to give customers live updates on the driver's location and estimate when their order will arrive. I focused on finding reliable systems that can keep tracking the drivers without any interruptions and ensure the information stays accurate.
 
+
+Explored Secure Payment Processing Options: (09/16/2024)
+I researched different ways to make sure payments are processed safely and securely. The focus was on using encryption to protect customer information and allowing them to save their payment details for future use. I also looked into ways to prevent any payment fraud and ensure that all transactions are handled smoothly.
+
+
