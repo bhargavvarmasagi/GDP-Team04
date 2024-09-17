@@ -80,6 +80,4 @@ I’ve added a new section to the project documentation that captures the client
 Created an updated wiki page for Functional Requirements list: (9/16/2024)
 I've created a new wiki page with the updated functional requirements(iteration 1), including the changes mentioned by the client today. I also looked into the differences between functional and non-functional requirements to make sure everything is correctly classified in the updated list.
 
-Updated investigation requirements for Maryville Grocery Delivery App: (9/16/2024)
-I've updated the existing document with the investigation requirements (iteration 1), reflecting the areas identified for further research based on the client's feedback today. I also reviewed the current research areas to ensure they align with the updated functional requirements, focusing on key aspects like security improvements, payment integration, and enhancing real-time tracking features.
-
+Research on load balancing during periods of high demand: (09/16/2024) I investigated various strategies for distributing server load effectively to handle high traffic volumes. The focus was on implementing scalable solutions that ensure the system remains responsive and reliable under peak load conditions. This includes exploring load balancing algorithms and techniques for dynamic scaling. The goal is to enhance system performance and maintain a seamless user experience even during busy periods. Additionally, I reviewed best practices for monitoring and managing load distribution to proactively address potential bottlenecks.
