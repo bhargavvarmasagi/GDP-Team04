@@ -104,3 +104,6 @@ Outlined use cases of important grocery delivery app features such as placing or
 
 Proposed List of Prototypes for Grocery Delivery App: (09/18/2024)
 I have completed research on the proposed list of prototypes that we plan to develop for the Maryville grocery delivery app. This includes key features like user registration and login, product browsing, shopping cart functionality, order tracking, user profile management, and more. These prototypes are expected to be developed by the end of the semester, and this list has been reviewed with our mentor to ensure alignment with the project’s goals.
+
+Research and Considerations regarding Proposed List of Prototypes for Grocery Delivery App: (09/18/2024)
+Conducted extensive research on user needs to ensure these prototypes address core functionalities and enhance user experience. Feedback from potential users has informed the prioritization of features, ensuring they align with realistic capabilities for development within the semester timeframe.
