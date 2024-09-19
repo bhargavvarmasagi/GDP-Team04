@@ -102,3 +102,5 @@ I figured out important use cases for the shopping process. This includes lookin
 Looked into the other use cases that are required for the maryville grocery delivery app: (09/18/2024)
 Outlined use cases of important grocery delivery app features such as placing orders for the selected items, tracking order progress by the user and browsing the product information . Conducted extensive research for the better understanding of user needs and ensure that these use cases accurately describe user interactions.
 
+Proposed List of Prototypes for Grocery Delivery App: (09/18/2024)
+I have completed research on the proposed list of prototypes that we plan to develop for the Maryville grocery delivery app. This includes key features like user registration and login, product browsing, shopping cart functionality, order tracking, user profile management, and more. These prototypes are expected to be developed by the end of the semester, and this list has been reviewed with our mentor to ensure alignment with the project’s goals.
