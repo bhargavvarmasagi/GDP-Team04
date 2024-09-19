@@ -93,4 +93,7 @@ I researched different GPS tracking options to help us track delivery drivers in
 Explored Secure Payment Processing Options: (09/16/2024)
 I researched different ways to make sure payments are processed safely and securely. The focus was on using encryption to protect customer information and allowing them to save their payment details for future use. I also looked into ways to prevent any payment fraud and ensure that all transactions are handled smoothly.
 
+Analyzing the List of Proposed Prototypes(09/18/2024):
+Analyzing the List of Proposed Prototypes for the Maryville Grocery Delivery App. Assessed core design elements, including user interface and functionality. Identified areas for improvement in scalability, responsiveness, and overall user flow. Provided recommendations to enhance feature alignment with project goals and client requirements.
+
 
