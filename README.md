@@ -96,4 +96,6 @@ I researched different ways to make sure payments are processed safely and secur
 Analyzing the List of Proposed Prototypes(09/18/2024):
 Analyzing the List of Proposed Prototypes for the Maryville Grocery Delivery App. Assessed core design elements, including user interface and functionality. Identified areas for improvement in scalability, responsiveness, and overall user flow. Provided recommendations to enhance feature alignment with project goals and client requirements.
 
+Identified some use cases for the maryville grocery delivery app: (9/18/2024)
+I figured out important use cases for the shopping process. This includes looking through products, searching for specific ones, and adding items to the cart. These insights will help guide the upcoming steps in development. I will use this information to improve and simplify the user experience.
 
