@@ -107,3 +107,6 @@ I have completed research on the proposed list of prototypes that we plan to dev
 
 Research and Considerations regarding Proposed List of Prototypes for Grocery Delivery App: (09/18/2024)
 Conducted extensive research on user needs to ensure these prototypes address core functionalities and enhance user experience. Feedback from potential users has informed the prioritization of features, ensuring they align with realistic capabilities for development within the semester timeframe.
+
+Creation of wiki page for use cases: (9/20/2024)
+I've created a wiki page for the maryville grocery delivery app to document the use cases. So far, I've added four use cases: Browse Products by Category, Search for a Product, Place an Order, and Track an Order in Real-Time.
