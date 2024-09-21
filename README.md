@@ -110,3 +110,9 @@ Conducted extensive research on user needs to ensure these prototypes address co
 
 Creation of wiki page for use cases: (9/20/2024)
 I've created a wiki page for the maryville grocery delivery app to document the use cases. So far, I've added four use cases: Browse Products by Category, Search for a Product, Place an Order, and Track an Order in Real-Time.
+
+Created wiki page for List of Proposed Prototypes (9/20/2024). 
+I've created a wiki page for the List of Proposed Prototypes of maryville grocery delivery app. Added project overview outlining key prototypes for the Maryville Grocery Delivery App based on mentor feedback and project scope.
+
+
+
