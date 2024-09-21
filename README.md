@@ -117,4 +117,7 @@ I've created a wiki page for the List of Proposed Prototypes of maryville grocer
 Researched and Documented Prototypes for Maryville Grocery Delivery App : (9/20/2024)
 After researching the requirements and functionalities, I documented the first five prototypes for the Maryville Grocery Delivery App. This includes user registration, store catalog with filters, shopping cart functionality, order tracking interface, and customer reviews & ratings.
 
+Researched and Documented Prototypes along with Conclusion: (9/20/2024)
+Following further research into admin and API integration features, I documented the 6th and 7th prototypes, focusing on the admin dashboard for inventory management and external API integration for product data. I also completed the conclusion summarizing the goals for these prototypes.
+
 
