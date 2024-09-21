@@ -114,5 +114,7 @@ I've created a wiki page for the maryville grocery delivery app to document the 
 Created wiki page for List of Proposed Prototypes (9/20/2024). 
 I've created a wiki page for the List of Proposed Prototypes of maryville grocery delivery app. Added project overview outlining key prototypes for the Maryville Grocery Delivery App based on mentor feedback and project scope.
 
+Researched and Documented Prototypes for Maryville Grocery Delivery App : (9/20/2024)
+After researching the requirements and functionalities, I documented the first five prototypes for the Maryville Grocery Delivery App. This includes user registration, store catalog with filters, shopping cart functionality, order tracking interface, and customer reviews & ratings.
 
 
