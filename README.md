@@ -120,4 +120,5 @@ After researching the requirements and functionalities, I documented the first f
 Researched and Documented Prototypes along with Conclusion: (9/20/2024)
 Following further research into admin and API integration features, I documented the 6th and 7th prototypes, focusing on the admin dashboard for inventory management and external API integration for product data. I also completed the conclusion summarizing the goals for these prototypes.
 
-
+Updated the Use cases wiki page by adding the new use cases: (09/20/2024)
+I have updated some the use cases on the wiki page for the Maryville Grocery Delivery App. The use cases now include leaving a review, managing payment methods, updating the delivery address, and reviewing order notifications.
