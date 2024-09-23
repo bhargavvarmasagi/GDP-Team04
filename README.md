@@ -122,3 +122,6 @@ Following further research into admin and API integration features, I documented
 
 Updated the Use cases wiki page by adding the new use cases: (09/20/2024)
 I have updated some the use cases on the wiki page for the Maryville Grocery Delivery App. The use cases now include leaving a review, managing payment methods, updating the delivery address, and reviewing order notifications.
+
+Checked some of the requirements in iteration 1 document for modification: (9/23/2024)
+Looked at the functional requirements for the following areas in order to identify areas for improvement: Store Catalog, Online Ordering, Payment Handling, Order Tracking and Shipment Status, Order Status Updates, and Data Security. Added a new functional requirement for displaying Order History to provide users with previous order details.
