@@ -128,3 +128,6 @@ Looked at the functional requirements for the following areas in order to identi
 
 Analysis on Functional Requirements List (Iteration 2): (09/23/2024)
 Refined the functional requirements list based on client feedback. Updated system specifications using RFC 2119-compliant language. Organized requirements into mandatory (SHALL), recommended (SHOULD), and optional (MAY) categories. Added new requirements for system behavior and constraints.
+
+Looked into some of the requirements and modified in the Iteration 1 document: (09/23/2024)
+Improvements in some of the requirements in the functional requirements Iteration 1 document is done for location based support, Messages to the delivery staff, various delivery choices, product and store suggestions, saved payment options and notifications for store supplies.
