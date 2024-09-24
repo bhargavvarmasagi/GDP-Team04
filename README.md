@@ -131,3 +131,7 @@ Refined the functional requirements list based on client feedback. Updated syste
 
 Looked into some of the requirements and modified in the Iteration 1 document: (09/23/2024)
 Improvements in some of the requirements in the functional requirements Iteration 1 document is done for location based support, Messages to the delivery staff, various delivery choices, product and store suggestions, saved payment options and notifications for store supplies.
+
+I reviewed several requirements outlined in the Iteration 1 document that SYSTEM MAY and modified them: (09/23/2024)
+The system MAY provide enhancements to the user experience through various functionalities. The system MAY suggest products and stores based on the customer's previous orders and interests. Additionally, it MAY allow customers to save payment methods for use in future transactions. Customers will also benefit from notifications when goods that are currently out of stock become available. Furthermore, the system MAY integrate with third-party applications to offer grocery recommendations tailored to user behavior.
+
