@@ -138,5 +138,5 @@ The system MAY provide enhancements to the user experience through various funct
 Made improvements to the functional requirements in the Iteration 1 document: (09/23/2024)
 Refined the "SYSTEM SHALL NOT" requirements to emphasize data security and performance integrity. Ensured that customer details SHALL NOT be stored in an unencrypted format, and critical information SHALL NOT be shared with unauthorized parties. Additionally, modified the requirements to ensure that the system SHALL NOT suffer performance degradation during peak demand, highlighting the need for proper load distribution.
 
-Added an updated wiki page for Investigation:Requirements Engineering document: (09/25/2024)
+Added an updated wiki page for Investigation:Requirements Engineering document: (09/25/2024)<br>
 Added a new wiki page and reviewed the previous requirements engineering wiki page to assess whether changes were needed in key topics, such as the definition of requirements engineering, the iterative process in agile, different engineering activities, and the roles of developers and stakeholders.
