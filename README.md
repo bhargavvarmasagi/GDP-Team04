@@ -144,7 +144,7 @@ Added a new wiki page and reviewed the previous requirements engineering wiki pa
 Conducted research on design and implementation of the use case diagram for the use cases in the Maryville Grocery Delivery App: (09/25/2024)
 Outlined the use cases and analyzed how to structure the use case diagram to support the development of the Maryville Grocery Delivery App.This diagram will help in clarifying user interactions and system functionalities,ensuring the most efficient development process.
 
-Looked into some of the updates and made modifications in the Investigation: Requirements Engineering document (09/25/2024). 
-Improvements were made in several areas, including the following:
-•	Updated processes for gathering location-based data to enhance user experience and improve system accuracy.
-•	Enhanced messaging capabilities for delivery staff, including real-time updates and automated responses.
+Looked into some of the updates and made modifications in the Investigation: Requirements Engineering document (09/25/2024). <br>
+Improvements were made in several areas, including the following:<br>
+•	Updated processes for gathering location-based data to enhance user experience and improve system accuracy.<br>
+•	Enhanced messaging capabilities for delivery staff, including real-time updates and automated responses.<br>
