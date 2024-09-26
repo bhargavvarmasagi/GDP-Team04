@@ -148,3 +148,11 @@ Looked into some of the updates and made modifications in the Investigation: Req
 Improvements were made in several areas, including the following:<br>
 •	Updated processes for gathering location-based data to enhance user experience and improve system accuracy.<br>
 •	Enhanced messaging capabilities for delivery staff, including real-time updates and automated responses.<br>
+
+Reviewed the updates and applied changes to the Investigation: Requirements Engineering document (09/25/2024). <br>
+Enhancements were made in several key areas, including the following:<br>
+•	Refined algorithms for product and store suggestions based on user preferences and shopping history.<br>
+•	Updated saved payment options, ensuring faster checkouts and improved security.<br>
+•	Improved notifications system, providing timely alerts on store supplies and restocks.<br>
+
+
