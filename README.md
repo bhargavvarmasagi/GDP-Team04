@@ -155,4 +155,5 @@ Enhancements were made in several key areas, including the following:<br>
 •	Updated saved payment options, ensuring faster checkouts and improved security.<br>
 •	Improved notifications system, providing timely alerts on store supplies and restocks.<br>
 
+Researched on Functional Requirements List (Iteration 2): (09/25/2024) Refined the functional requirements list based on client feedback. Updated system specifications using RFC 2119-compliant language. Organized requirements into mandatory (SHALL), recommended (SHOULD), and optional (MAY) categories. Added new requirements for system behavior and constraints.
 
