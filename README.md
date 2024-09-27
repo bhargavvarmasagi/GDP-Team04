@@ -157,3 +157,5 @@ Enhancements were made in several key areas, including the following:<br>
 
 Researched on Functional Requirements List (Iteration 2): (09/25/2024) Refined the functional requirements list based on client feedback. Updated system specifications using RFC 2119-compliant language. Organized requirements into mandatory (SHALL), recommended (SHOULD), and optional (MAY) categories. Added new requirements for system behavior and constraints.
 
+Updated List of Proposed Prototypes(09/27/2024):Reviewed and refined prototype list for Maryville Grocery Delivery App. Focused on enhancing functionality and user experience. Suggested improvements for the checkout process, payment management, and API integration to better align with project objectives and ensure smooth scalability.
+
