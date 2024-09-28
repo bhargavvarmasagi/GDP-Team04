@@ -162,5 +162,6 @@ Updated List of Proposed Prototypes(09/27/2024):Reviewed and refined prototype l
 Research on non-functional requirements (Performance,reliability and security): (9/27/2024) <br>
 Researched non-functional requirements with a focus on performance, reliability, and security. The findings will support the app's design to enhance scalability, maintain availability, and safeguard user data. 
 
-Reviewed about the non-functional requirements for the Maryville Grocery Delivery App: (09/27/2024)
+Reviewed about the non-functional requirements for the Maryville Grocery Delivery App:(09/27/2024)
 Looked into the non-functional requirements such as Accuracy, Efficiency, Scalability for the Maryville Grocery Delivery App.This requirements will help us to know about the accuracy of delivery tracking, optimizing the use of server and network resources, and prevent unnecessary costs or overuse as the system scales.
+
