@@ -168,3 +168,6 @@ Looked into the non-functional requirements such as Accuracy, Efficiency, Scalab
 Updated List of Proposed Prototypes : (09/27/2024)<br>
 Researched and updated payment management strategies for the Maryville Grocery Delivery App, ensuring smoother transactions and better alignment with project objectives in list of proposed prototypes.
 
+Reviewed and Modified Investigation Requirements Engineering : (09/27/2024)<br>
+An investigation was conducted into Requirements Engineering to modify and improve the proposed system. This process involved the systematic identification, documentation, and management of requirements to ensure that the final product meets stakeholder needs. The focus was on refining user stories, functional specifications, and non-functional requirements to address scalability, performance, and usability.
+
