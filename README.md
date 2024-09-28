@@ -159,3 +159,5 @@ Researched on Functional Requirements List (Iteration 2): (09/25/2024) Refined t
 
 Updated List of Proposed Prototypes(09/27/2024):Reviewed and refined prototype list for Maryville Grocery Delivery App. Focused on enhancing functionality and user experience. Suggested improvements for the checkout process, payment management, and API integration to better align with project objectives and ensure smooth scalability.
 
+Research on non-functional requirements (Performance,reliability and security): (9/27/2024) <br>
+Researched non-functional requirements with a focus on performance, reliability, and security. The findings will support the app's design to enhance scalability, maintain availability, and safeguard user data. 
