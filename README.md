@@ -165,3 +165,6 @@ Researched non-functional requirements with a focus on performance, reliability,
 Reviewed about the non-functional requirements for the Maryville Grocery Delivery App:(09/27/2024)
 Looked into the non-functional requirements such as Accuracy, Efficiency, Scalability for the Maryville Grocery Delivery App.This requirements will help us to know about the accuracy of delivery tracking, optimizing the use of server and network resources, and prevent unnecessary costs or overuse as the system scales.
 
+Updated List of Proposed Prototypes : (09/27/2024)<br>
+Researched and updated payment management strategies for the Maryville Grocery Delivery App, ensuring smoother transactions and better alignment with project objectives in list of proposed prototypes.
+
