@@ -171,5 +171,5 @@ Researched and updated payment management strategies for the Maryville Grocery D
 Reviewed and Modified Investigation Requirements Engineering : (09/27/2024)<br>
 An investigation was conducted into Requirements Engineering to modify and improve the proposed system. This process involved the systematic identification, documentation, and management of requirements to ensure that the final product meets stakeholder needs. The focus was on refining user stories, functional specifications, and non-functional requirements to address scalability, performance, and usability.
 
-Analyzing Non-functional Requirements List (Iteration 1) - 09/30/2024
+Analyzing Non-functional Requirements List (Iteration 1) - (09/30/2024) <br>
 Reviewed and developed the first iteration of the non-functional requirements for the Maryville Grocery Delivery App. Focused on system performance, defining acceptable response times for login and search operations. Evaluated security concerns, emphasizing data protection for user information and transactions. Identified system stability requirements to manage concurrent users and ensure high availability, setting a goal of 99.9% uptime. Also addressed scalability to accommodate future growth and external API integrations.
