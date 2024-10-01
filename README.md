@@ -182,3 +182,6 @@ A prototype was developed to address the identified use cases on the admin end. 
 
 Analyzed about the importance of usability,accessibility and maintainability for the development: (09/30/2024)
 Analyzing the significane of usablility, accessibility, maintainability in modern design,since they guarantee the ease of use, upkeep, and updates of systems over time. Ensuring whether the system is well documented and easy to updated or extend over time.
+
+Created a document for Non-Functional Requirements (Iteration 1): (9/30/2024)
+Added non functional requirements in the document related to performance, reliability, and compatibility. These requirements outline how the system should behave under different conditions and ensure it is safe and dependable. This will help us build a strong foundation for the application as we move forward.
