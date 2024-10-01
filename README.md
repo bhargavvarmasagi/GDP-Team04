@@ -179,3 +179,6 @@ A prototype was developed to address the identified use cases on the user end. T
 
 Working on Prototype of Use Cases on Admin End: (09/30/2024)<br>
 A prototype was developed to address the identified use cases on the admin end. This process involved designing and refining admin interactions with the system to ensure effective functionality and management capabilities. The focus was on visualizing how admins will navigate the system based on key actions and administrative responsibilities. The prototype emphasizes core system functionalities such as dashboard access, managing user submissions, generating reports, and overseeing system operations.
+
+Analyzed about the importance of usability,accessibility and maintainability for the development: (09/30/2024)
+Analyzing the significane of usablility, accessibility, maintainability in modern design,since they guarantee the ease of use, upkeep, and updates of systems over time. Ensuring whether the system is well documented and easy to updated or extend over time.
