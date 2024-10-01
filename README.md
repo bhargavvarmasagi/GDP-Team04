@@ -173,3 +173,6 @@ An investigation was conducted into Requirements Engineering to modify and impro
 
 Analyzing Non-functional Requirements List (Iteration 1) - (09/30/2024) <br>
 Reviewed and developed the first iteration of the non-functional requirements for the Maryville Grocery Delivery App. Focused on system performance, defining acceptable response times for login and search operations. Evaluated security concerns, emphasizing data protection for user information and transactions. Identified system stability requirements to manage concurrent users and ensure high availability, setting a goal of 99.9% uptime. Also addressed scalability to accommodate future growth and external API integrations.
+
+Working on Prototype of Use Cases on User End: (09/30/2024) <br>
+A prototype was developed to address the identified use cases on the user end. This process involved designing and refining user interactions with the system to ensure seamless functionality and user experience. The focus was on visualizing how users will navigate the system based on key actions and expected outcomes. The prototype emphasizes core system functionalities such as registration, login, dashboard interaction, profile management, submission requests, and status reviews.
