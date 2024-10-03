@@ -198,3 +198,6 @@ I am currently working on a prototype to address the identified use cases on the
 
 Working on Prototype of Use Cases on Admin End: (10/02/2024)<br>
 I am currently refining the prototype for admin-side use cases. This focuses on optimizing admin interactions with the system, including dashboard access, managing user submissions, generating reports, and overseeing system operations.
+
+Addition of the Use case diagram for the Maryville Grocery Delivery App:(10/02/2024)<br>
+Currently working on the use case diagrams for the use cases such as user leaving a review on a product, managing the payment options such as adding or updating, modification of saved delivery address, getting notifications about the progress of order, including updates such as confirmation, preparation, and delivery.
