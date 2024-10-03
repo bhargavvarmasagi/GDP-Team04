@@ -194,3 +194,7 @@ Working on use case diagrams to illustrate core functionalities of the website. 
 
 Working on Prototype of Use Cases on User End: (10/02/2024)<br>
 I am currently working on a prototype to address the identified use cases on the user end. This involves designing and continuously refining user interactions with the system to ensure seamless functionality and a smooth user experience. The focus remains on visualizing how users will navigate the system based on key actions and expected outcomes. 
+
+
+Working on Prototype of Use Cases on Admin End: (10/02/2024)<br>
+I am currently refining the prototype for admin-side use cases. This focuses on optimizing admin interactions with the system, including dashboard access, managing user submissions, generating reports, and overseeing system operations.
