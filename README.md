@@ -188,3 +188,6 @@ Added non functional requirements in the document related to performance, reliab
 
 Working on Non-Functional Requirements for Stability, Security, and Availability: (10/02/2024)
 A draft of non-functional requirements has been developed, focusing on key attributes such as system stability, security, and availability. This initial list considers how the system should handle performance under load, ensure data protection through security measures, and maintain availability even during potential disruptions. We have prioritized defining clear, measurable expectations to ensure that these attributes meet client specifications and end-user needs. Further iterations will refine these attributes based on feedback and project progress.
+
+Working on use case diagram for the use cases(iteration 2) document:- (10/02/2024)
+Working on use case diagrams to illustrate core functionalities of the website. This includes browsing products by category, searching for specific items, placing orders efficiently, and tracking them in real-time. These diagrams will highlight the interactions between users and the system to ensure streamlined processes and a smooth user experience.
