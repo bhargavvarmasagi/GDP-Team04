@@ -191,3 +191,6 @@ A draft of non-functional requirements has been developed, focusing on key attri
 
 Working on use case diagram for the use cases(iteration 2) document:- (10/02/2024)<br>
 Working on use case diagrams to illustrate core functionalities of the website. This includes browsing products by category, searching for specific items, placing orders efficiently, and tracking them in real-time. These diagrams will highlight the interactions between users and the system to ensure streamlined processes and a smooth user experience.
+
+Working on Prototype of Use Cases on User End: (10/02/2024)<br>
+I am currently working on a prototype to address the identified use cases on the user end. This involves designing and continuously refining user interactions with the system to ensure seamless functionality and a smooth user experience. The focus remains on visualizing how users will navigate the system based on key actions and expected outcomes. 
