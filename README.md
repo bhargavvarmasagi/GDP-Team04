@@ -185,3 +185,6 @@ Analyzing the significane of usablility, accessibility, maintainability in moder
 
 Created a document for Non-Functional Requirements (Iteration 1): (9/30/2024)
 Added non functional requirements in the document related to performance, reliability, and compatibility. These requirements outline how the system should behave under different conditions and ensure it is safe and dependable. This will help us build a strong foundation for the application as we move forward.
+
+Working on Non-Functional Requirements for Stability, Security, and Availability: (10/02/2024)
+A draft of non-functional requirements has been developed, focusing on key attributes such as system stability, security, and availability. This initial list considers how the system should handle performance under load, ensure data protection through security measures, and maintain availability even during potential disruptions. We have prioritized defining clear, measurable expectations to ensure that these attributes meet client specifications and end-user needs. Further iterations will refine these attributes based on feedback and project progress.
