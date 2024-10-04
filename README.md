@@ -201,3 +201,8 @@ I am currently refining the prototype for admin-side use cases. This focuses on 
 
 Addition of the Use case diagram for the Maryville Grocery Delivery App:(10/02/2024)<br>
 Currently working on the use case diagrams for the use cases such as user leaving a review on a product, managing the payment options such as adding or updating, modification of saved delivery address, getting notifications about the progress of order, including updates such as confirmation, preparation, and delivery.
+
+Created Wiki Page for Non-Functional Requirements (Iteration 1): (10/04/2024)
+Developed a dedicated wiki page outlining the non-functional requirements for the Maryville Grocery Delivery App. This iteration details critical aspects such as performance benchmarks, security protocols, and system availability standards to ensure a reliable and user-friendly experience. Key requirements include order processing speeds, data encryption methods, and compliance with industry standards, all aimed at enhancing overall system integrity and user satisfaction.
+
+
