@@ -206,6 +206,6 @@ Created Wiki Page for Non-Functional Requirements (Iteration 1): (10/04/2024)
 Developed a dedicated wiki page outlining the non-functional requirements for the Maryville Grocery Delivery App. This iteration details critical aspects such as performance benchmarks, security protocols, and system availability standards to ensure a reliable and user-friendly experience. Key requirements include order processing speeds, data encryption methods, and compliance with industry standards, all aimed at enhancing overall system integrity and user satisfaction.
 
 Working on Non-Functional Requirements for Availability: (10/04/2024)<br>
-The system is designed to maintain 99.9% uptime, ensuring smooth operation during peak shopping hours. Redundancy in key components like payment processing and order tracking prevents service interruptions. Hourly automated backups safeguard data, and recovery time is kept under 30 minutes in case of failure, ensuring continuous service and reliability during high demand.
+ensuring smooth operation during peak shopping hours. Redundancy in key components like payment processing and order tracking prevents service interruptions. Hourly automated backups safeguard data, and recovery time is kept under 30 minutes in case of failure, ensuring continuous service and reliability during high demand.
 
 
