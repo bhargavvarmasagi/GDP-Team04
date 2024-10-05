@@ -211,4 +211,5 @@ ensuring smooth operation during peak shopping hours. Redundancy in key componen
 Made some changes in Use Cases(Iteration 2) document: (10/4/2024)<br>
 Updated use cases for 'Browse Products by Category,' 'Search for a Product,' 'Place an Order,' and 'Track an Order in Real-Time' with additional details. Modified Iteration 1 document to reflect these changes and completed the Use Case Diagram for the Maryville Grocery Delivery App.
 
-
+Updated some Use Cases in Use Cases(Iteration 2) document: (10/04/2024)<br>
+Made some changes to the use cases such as 'Leave A Review', 'Manage Payment Methods', 'Update Delivery Address' and 'Receive Order Notifications'.Changed the Use Cases (Iteration 1) document and completed the Use Case diagram with the updated changes in the use cases for the Maryville Grocery Delivery App.
