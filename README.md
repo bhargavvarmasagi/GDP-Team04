@@ -213,3 +213,7 @@ Updated use cases for 'Browse Products by Category,' 'Search for a Product,' 'Pl
 
 Updated some Use Cases in Use Cases(Iteration 2) document: (10/04/2024)<br>
 Made some changes to the use cases such as 'Leave A Review', 'Manage Payment Methods', 'Update Delivery Address' and 'Receive Order Notifications'.Changed the Use Cases (Iteration 1) document and completed the Use Case diagram with the updated changes in the use cases for the Maryville Grocery Delivery App.
+
+Working on Non-Functional Requirements: (10/04/2024)<br>
+Improved usability by refining the interface for smoother user navigation during peak usage. Stability enhanced through load balancing, ensuring even traffic distribution to avoid system crashes. Scalability addressed by optimizing the system to handle increasing users and data without performance issues. Real-time tracking feature added for instant order updates, improving transparency and user satisfaction.
+
