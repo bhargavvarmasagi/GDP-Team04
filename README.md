@@ -208,4 +208,7 @@ Developed a dedicated wiki page outlining the non-functional requirements for th
 Working on Non-Functional Requirements for Availability: (10/04/2024)<br>
 ensuring smooth operation during peak shopping hours. Redundancy in key components like payment processing and order tracking prevents service interruptions. Hourly automated backups safeguard data, and recovery time is kept under 30 minutes in case of failure, ensuring continuous service and reliability during high demand.
 
+Made some changes in Use Cases(Iteration 2) document: (10/4/2024)<br>
+Updated use cases for 'Browse Products by Category,' 'Search for a Product,' 'Place an Order,' and 'Track an Order in Real-Time' with additional details. Modified Iteration 1 document to reflect these changes and completed the Use Case Diagram for the Maryville Grocery Delivery App.
+
 
