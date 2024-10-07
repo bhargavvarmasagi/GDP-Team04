@@ -217,3 +217,6 @@ Made some changes to the use cases such as 'Leave A Review', 'Manage Payment Met
 Working on Non-Functional Requirements: (10/04/2024)<br>
 Improved usability by refining the interface for smoother user navigation during peak usage. Stability enhanced through load balancing, ensuring even traffic distribution to avoid system crashes. Scalability addressed by optimizing the system to handle increasing users and data without performance issues. Real-time tracking feature added for instant order updates, improving transparency and user satisfaction.
 
+Reviewed Non functional requirements list(Iteration 1) to make changes: (10/07/2024)<br>
+Reviewed non-functional requirements for performance, security, availability, and scalability to identify areas for improvement. Checked for any possible enhancements to make the system more effective. Ensured that the current standards are in line with the project's objectives
+
