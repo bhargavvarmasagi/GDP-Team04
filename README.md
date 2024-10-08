@@ -220,5 +220,11 @@ Improved usability by refining the interface for smoother user navigation during
 Reviewed Non functional requirements list(Iteration 1) to make changes: (10/07/2024)<br>
 Reviewed non-functional requirements for performance, security, availability, and scalability to identify areas for improvement. Checked for any possible enhancements to make the system more effective. Ensured that the current standards are in line with the project's objectives
 
-Working on Non-Functional Requirements (Iteration 2): (10/07/2024) A  non-functional requirements has been developed, focusing on key attributes such as system stability, security, and availability. This initial list considers how the system should handle performance under load, ensure data protection through security measures, and maintain availability even during potential disruptions. We have prioritized defining clear, measurable expectations to ensure that these attributes meet client specifications and end-user needs. Further iterations will refine these attributes based on feedback and project progress.
+Working on Non-Functional Requirements (Iteration 2): (10/07/2024) A set of non-functional requirements has been crafted, emphasizing crucial aspects like system reliability, security, and uptime. This initial draft addresses the system's performance under stress, implements security protocols for data protection, and ensures consistent availability despite potential challenges. We've focused on setting precise, measurable goals to guarantee these characteristics align with client demands and user expectations. Future revisions will fine-tune these features as feedback is gathered and the project advances.
 
+
+
+
+
+
+4o
