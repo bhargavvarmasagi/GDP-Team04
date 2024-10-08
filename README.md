@@ -227,3 +227,6 @@ Reviewed and developed the first iteration of the non-functional requirements fo
 
 Working on Non-Functional Requirements : (10/07/2024) <br>
 A draft of non-functional requirements has been developed, focusing on key attributes such as system stability, security, and availability. This initial list considers how the system should handle performance under load, ensure data protection through security measures, and maintain availability even during potential disruptions. We have prioritized defining clear, measurable expectations to ensure that these attributes meet client specifications and end-user needs. Further iterations will refine these attributes based on feedback and project progress.
+
+Researched on the Data Management Plan (Iteration 1) document :(10/07/2024)<br>
+Researched on the implementation of the Data management plan (Iteration 1) On ER diagrams and the mapping of functional requirements to data storage. Looked for the summary of the data that we need to store for the Maryville Grocery Delivery App. And also checked the non functional requirements changes.
