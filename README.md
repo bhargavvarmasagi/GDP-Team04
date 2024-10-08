@@ -227,10 +227,3 @@ Reviewed and developed the first iteration of the non-functional requirements fo
 
 Working on Non-Functional Requirements : (10/07/2024) <br>
 A draft of non-functional requirements has been developed, focusing on key attributes such as system stability, security, and availability. This initial list considers how the system should handle performance under load, ensure data protection through security measures, and maintain availability even during potential disruptions. We have prioritized defining clear, measurable expectations to ensure that these attributes meet client specifications and end-user needs. Further iterations will refine these attributes based on feedback and project progress.
-
-
-
-
-
-
-4o
