@@ -222,6 +222,9 @@ Reviewed non-functional requirements for performance, security, availability, an
 
 Working on Non-Functional Requirements (Iteration 2): (10/07/2024) A set of non-functional requirements has been crafted, emphasizing crucial aspects like system reliability, security, and uptime. This initial draft addresses the system's performance under stress, implements security protocols for data protection, and ensures consistent availability despite potential challenges. We've focused on setting precise, measurable goals to guarantee these characteristics align with client demands and user expectations. Future revisions will fine-tune these features as feedback is gathered and the project advances.
 
+Analyzing Non-functional Requirements List (Iteration 2) - (10/07/2024)<br>
+Reviewed and developed the first iteration of the non-functional requirements for the Maryville Grocery Delivery App. Focused on system performance, defining acceptable response times for login and search operations. Evaluated security concerns, emphasizing data protection for user information and transactions. Identified system stability requirements to manage concurrent users and ensure high availability, setting a goal of 99.9% uptime. Also addressed scalability to accommodate future growth and external API integrations.
+
 
 
 
