@@ -240,7 +240,8 @@ A draft of the Data Management Plan has been created, outlining the key data ent
 Researched on Data Management Plan - (10/09/2024)
 Researched and compiled a summary of required data fields, providing a user-friendly overview of the ER Diagram for client reference. Developed initial data security strategies, focusing on access restriction and encryption. Mapped functional requirements to the corresponding data storage solutions, ensuring alignment with project goals.
 
-
+Working on ER diagrams for the Data Management plan(Iteration 1) Document:- (10/09/2024)
+Working on ER diagrams that illustrate how various entities in the Maryville Grocery Delivery App, such as customers, orders, and products, relate to each other, providing a clear blueprint for structuring data within the database. Working on a structured approach that aids in visualizing how different entities interact and relate to one another, facilitating better understanding and communication during the application's design phase.
 
 
 
