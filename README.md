@@ -234,6 +234,9 @@ Researched on the implementation of the Data management plan (Iteration 1) On ER
 Non-Functional Requirements(Iteration 2)-Information Gathering: (10/09/2024)
 This phase focuses on the systematic collection of data and feedback to guide the refinement of non-functional requirements. We are actively gathering insights on system performance, security needs, and uptime expectations from stakeholders, user surveys, and preliminary testing. The goal is to assess how well the system aligns with the desired reliability, data protection standards, and availability targets under real-world conditions. This information will form the basis for upcoming iterations, ensuring the non-functional requirements are both realistic and comprehensive in addressing potential challenges.
 
+Working on Data Management Plan (Iteration 1): (10/09/2024)
+A draft of the Data Management Plan has been created, outlining the key data entities and their relationships within the system. This initial iteration focuses on defining the types of data to be stored, such as user profiles, product details, and order information. It also includes plans for securing data through encryption and access controls. Further refinements will be made to ensure alignment with functional requirements and security protocols as the project progresses.
+
 
 
 
