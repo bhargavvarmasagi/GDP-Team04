@@ -230,3 +230,13 @@ A draft of non-functional requirements has been developed, focusing on key attri
 
 Researched on the Data Management Plan (Iteration 1) document :(10/07/2024)<br>
 Researched on the implementation of the Data management plan (Iteration 1) On ER diagrams and the mapping of functional requirements to data storage. Looked for the summary of the data that we need to store for the Maryville Grocery Delivery App. And also checked the non functional requirements changes.
+
+Non-Functional Requirements(Iteration 2)-Information Gathering: (10/09/2024)
+This phase focuses on the systematic collection of data and feedback to guide the refinement of non-functional requirements. We are actively gathering insights on system performance, security needs, and uptime expectations from stakeholders, user surveys, and preliminary testing. The goal is to assess how well the system aligns with the desired reliability, data protection standards, and availability targets under real-world conditions. This information will form the basis for upcoming iterations, ensuring the non-functional requirements are both realistic and comprehensive in addressing potential challenges.
+
+
+
+
+
+
+
