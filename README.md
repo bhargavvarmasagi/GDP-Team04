@@ -237,6 +237,9 @@ This phase focuses on the systematic collection of data and feedback to guide th
 Working on Data Management Plan (Iteration 1): (10/09/2024)
 A draft of the Data Management Plan has been created, outlining the key data entities and their relationships within the system. This initial iteration focuses on defining the types of data to be stored, such as user profiles, product details, and order information. It also includes plans for securing data through encryption and access controls. Further refinements will be made to ensure alignment with functional requirements and security protocols as the project progresses.
 
+Researched on Data Management Plan - (10/09/2024)
+Researched and compiled a summary of required data fields, providing a user-friendly overview of the ER Diagram for client reference. Developed initial data security strategies, focusing on access restriction and encryption. Mapped functional requirements to the corresponding data storage solutions, ensuring alignment with project goals.
+
 
 
 
