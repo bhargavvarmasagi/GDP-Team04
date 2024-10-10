@@ -243,6 +243,9 @@ Researched and compiled a summary of required data fields, providing a user-frie
 Working on ER diagrams for the Data Management plan(Iteration 1) Document:- (10/09/2024)
 Working on ER diagrams that illustrate how various entities in the Maryville Grocery Delivery App, such as customers, orders, and products, relate to each other, providing a clear blueprint for structuring data within the database. Working on a structured approach that aids in visualizing how different entities interact and relate to one another, facilitating better understanding and communication during the application's design phase.
 
+Reviewed the remaining information in Non functional requirements(iteration 1) for changes:- (10/9/2024)
+I reviewed the non-functional requirements document(Iteration 1), focusing on scalability, usability, stability, and compliance. After identifying areas for improvement, I made changes to enhance performance, user experience, and system stability.  Additionally, I worked on ER diagrams for the data management plan document.
+
 
 
 
