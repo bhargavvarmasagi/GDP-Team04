@@ -16,35 +16,35 @@ Analyzed existing grocery delivery apps in Maryville. Documented features, user 
 Research :-(09/04/2024)<br>
 Researched and reviewed academic papers on grocery delivery apps. Examined how they affected customer behavior and found key trends.
 
-Creation of About the developers page:- (9/6/24)<br>
+Creation of About the developers page:- (09/06/2024)<br>
 Created a page "About the developers", added team members details and added the page link to main wiki page.Discussed about project charter with team members.
 
-Documented the minutes from the client meeting:- (9/6/24) <br>
+Documented the minutes from the client meeting:- (09/06/2024) <br>
 I have Updated the client meeting minutes details on the wiki pages, including comprehensive notes from the meeting held today 9/4/2024.
 
-Problem Statement: (9/6/24) <br>
+Problem Statement: (09/06/2024) <br>
 Drafted the problem statement, detailing the inefficiencies in the client’s existing process without suggesting solutions. Added the page to the main wiki with a focus on clarity and thoroughness.
 
-Problem Statement: (9/6/24) <br>
+Problem Statement: (09/06/2024) <br>
 Completed the problem statement based on client discussions, highlighting the flaws in their current process. Linked the problem statement to the main wiki page for easy access.
 
 Project Charter Development: (09/06/2024)<br>
 I've updated the information to provide a clear explanation of the problem, the reason for overcoming it, and a brief overview of the most important characteristics and functionalities.
 
-Research about search and filter functions: (9/9/24)<br>
+Research about search and filter functions: (09/09/2024)<br>
 I researched how to make a store catalog with search and filtering capabilities. I gathered information on how to make it user-friendly and efficient for finding products fast. I also explored some techniques to improve search accuracy and make filtering options easier for users.
 
 Research on online orders and tracking: (09/09/2024)<br>
 I looked into how payments are processed and orders are placed online, with a priority on implementing real-time tracking for increased productivity and customer happiness, guaranteeing secure transactions, and developing an effortless user experience.
 
-Research on Customer Reviews and Ratings: (9/9/24)<br>
+Research on Customer Reviews and Ratings: (09/09/2024)<br>
 I investigated how to implement effective customer reviews and ratings for products and stores, focusing on enhancing credibility and user engagement. I explored strategies for managing feedback, including combating fake reviews and making the review process user-friendly.
 
 
-Research on Load Balancing for Peak Order Times: (9/9/2024)<br>
+Research on Load Balancing for Peak Order Times: (09/09/2024)<br>
 I studied ways to evenly distribute website traffic during busy order times to prevent crashes and keep things running smoothly. I focused on methods that help split the load across multiple servers, ensuring faster performance and minimizing downtime when demand is high. This improves the user experience by keeping the site responsive during peak hours.
 
-Research on Location-Based Services for Accurate Delivery Estimates: (9/9/2024)<br>
+Research on Location-Based Services for Accurate Delivery Estimates: (09/09/2024)<br>
 I investigated how location-based services can improve the accuracy of delivery estimates by using real-time GPS tracking and geolocation data. By leveraging customer location and route optimization algorithms, businesses can provide more precise delivery times, enhance route efficiency, and improve customer satisfaction. Additionally, integrating traffic data and environmental factors helps refine the delivery process, ensuring timely and accurate estimates.
 
 Further Analysis on Customer Reviews and Ratings: (09/11/2024)<br>
@@ -56,25 +56,25 @@ Explored best practices for securing user data during transactions, focusing on 
 Research on Efficient Inventory Management Techniques (09/11/2024)<br>
 Explored various methods for managing inventory efficiently within a grocery delivery app. Focused on strategies for real-time inventory tracking, stock level management, and automated restocking processes. 
 
-Further research on search and filter functions: (9/11/2024) <br>
+Further research on search and filter functions: (09/11/2024) <br>
 I looked into ways to improve the functionality of the search and filter features, especially in cases where there are a lot of products. I looked into speeding up search results, lowering amount of work the system should do, and making filters change depending on what the user selects. I additionally explored ways to provide consumers with customized search recommendations and simplify challenging searches.
 
 Analyzing the Admin Functionality : (09/11/2024)<br>
 Discussed on the admin dashboard's ability to track platform performance, including active users ,partner stores,dashers available to deliver and others.Getting information of daily,weekly, monthly reports of service fees and delivery charges.And reviewed how administrator monitors the fraudlent activities such as improper transactions and suspicious user behaviour.
 
-Added 'Functional Requirements List' wiki page: (9/13/2024)  <br>
+Added 'Functional Requirements List' wiki page: (09/13/2024)  <br>
 Created the wiki page 'Functional Requirements List (Iteration 1) outlining key system functionalities, including store catalog with product details, filtering options, online ordering with real-time inventory checks, and secure payment processing with saved payment methods.
 
-Added new requirements in 'Functional requirements list' document & wiki page: (9/13/2024)<br>
+Added new requirements in 'Functional requirements list' document & wiki page: (09/13/2024)<br>
 Added new functional requirements in the "Functional Requirements List (Iteration 1)" to include real-time order tracking and shipment status, GPS-based tracking for delivery personnel, notifications for order status updates, enhanced data security with encryption, and customer reviews and ratings features.
 
 Added new statements in the specified format in 'Functional requirements list' document and in wiki page: (09/13/2024)<br>
 The statements of functional requirements that include load distribution, location-based services, product and store suggestions, saved payment options, integration of third parties, data management, performance problems have been added in the 'Functionl Requirements list' and also in wiki page.
 
-Revised 'Action Items' based on client meeting: (9/13/2024)<br>
+Revised 'Action Items' based on client meeting: (09/13/2024)<br>
 Following the client meeting, I have updated the 'Action Items' section of our documentation to reflect the tasks and changes that were discussed. This includes adjustments to the project requirements and any new priorities identified by the client. This helps in tracking what needs to be done and ensures that the team addresses all client concerns effectively.
 
-Updated 'Client Feedback' section in the project documentation: (9/13/2024)<br>
+Updated 'Client Feedback' section in the project documentation: (09/13/2024)<br>
 I’ve added a new section to the project documentation that captures the client’s feedback from our recent meeting. This includes any new requests, clarifications, or adjustments to the project scope. This update ensures that all client input is recorded and integrated into our ongoing research and documentation efforts.
 
 Created an updated wiki page for Functional Requirements list: (9/16/2024)<br>
@@ -97,7 +97,7 @@ I researched different ways to make sure payments are processed safely and secur
 Analyzing the List of Proposed Prototypes(09/18/2024):<br>
 Analyzing the List of Proposed Prototypes for the Maryville Grocery Delivery App. Assessed core design elements, including user interface and functionality. Identified areas for improvement in scalability, responsiveness, and overall user flow. Provided recommendations to enhance feature alignment with project goals and client requirements.
 
-Identified some use cases for the maryville grocery delivery app: (9/18/2024)<br>
+Identified some use cases for the maryville grocery delivery app: (09/18/2024)<br>
 I figured out important use cases for the shopping process. This includes looking through products, searching for specific ones, and adding items to the cart. These insights will help guide the upcoming steps in development. I will use this information to improve and simplify the user experience.
 
 Looked into the other use cases that are required for the maryville grocery delivery app: (09/18/2024)<br>
@@ -109,22 +109,22 @@ I have completed research on the proposed list of prototypes that we plan to dev
 Research and Considerations regarding Proposed List of Prototypes for Grocery Delivery App: (09/18/2024)<br>
 Conducted extensive research on user needs to ensure these prototypes address core functionalities and enhance user experience. Feedback from potential users has informed the prioritization of features, ensuring they align with realistic capabilities for development within the semester timeframe.
 
-Creation of wiki page for use cases: (9/20/2024)<br>
+Creation of wiki page for use cases: (09/20/2024)<br>
 I've created a wiki page for the maryville grocery delivery app to document the use cases. So far, I've added four use cases: Browse Products by Category, Search for a Product, Place an Order, and Track an Order in Real-Time.
 
-Created wiki page for List of Proposed Prototypes (9/20/2024) <br>
+Created wiki page for List of Proposed Prototypes (09/20/2024) <br>
 I've created a wiki page for the List of Proposed Prototypes of maryville grocery delivery app. Added project overview outlining key prototypes for the Maryville Grocery Delivery App based on mentor feedback and project scope.
 
-Researched and Documented Prototypes for Maryville Grocery Delivery App : (9/20/2024) <br>
+Researched and Documented Prototypes for Maryville Grocery Delivery App : (09/20/2024) <br>
 After researching the requirements and functionalities, I documented the first five prototypes for the Maryville Grocery Delivery App. This includes user registration, store catalog with filters, shopping cart functionality, order tracking interface, and customer reviews & ratings.
 
-Researched and Documented Prototypes along with Conclusion: (9/20/2024)<br>
+Researched and Documented Prototypes along with Conclusion: (09/20/2024)<br>
 Following further research into admin and API integration features, I documented the 6th and 7th prototypes, focusing on the admin dashboard for inventory management and external API integration for product data. I also completed the conclusion summarizing the goals for these prototypes.
 
 Updated the Use cases wiki page by adding the new use cases: (09/20/2024)<br>
 I have updated some the use cases on the wiki page for the Maryville Grocery Delivery App. The use cases now include leaving a review, managing payment methods, updating the delivery address, and reviewing order notifications.
 
-Checked some of the requirements in iteration 1 document for modification: (9/23/2024) <br>
+Checked some of the requirements in iteration 1 document for modification: (09/23/2024) <br>
 Looked at the functional requirements for the following areas in order to identify areas for improvement: Store Catalog, Online Ordering, Payment Handling, Order Tracking and Shipment Status, Order Status Updates, and Data Security. Added a new functional requirement for displaying Order History to provide users with previous order details.
 
 Analysis on Functional Requirements List (Iteration 2): (09/23/2024) <br>
@@ -162,7 +162,7 @@ Refined the functional requirements list based on client feedback. Updated syste
 Updated List of Proposed Prototypes(09/27/2024):<br>
 Reviewed and refined prototype list for Maryville Grocery Delivery App. Focused on enhancing functionality and user experience. Suggested improvements for the checkout process, payment management, and API integration to better align with project objectives and ensure smooth scalability.
 
-Research on non-functional requirements (Performance,reliability and security): (9/27/2024) <br>
+Research on non-functional requirements (Performance,reliability and security): (09/27/2024) <br>
 Researched non-functional requirements with a focus on performance, reliability, and security. The findings will support the app's design to enhance scalability, maintain availability, and safeguard user data. 
 
 Reviewed about the non-functional requirements for the Maryville Grocery Delivery App:(09/27/2024)<br>
@@ -186,7 +186,7 @@ A prototype was developed to address the identified use cases on the admin end. 
 Analyzed about the importance of usability,accessibility and maintainability for the development: (09/30/2024)<br>
 Analyzing the significane of usablility, accessibility, maintainability in modern design,since they guarantee the ease of use, upkeep, and updates of systems over time. Ensuring whether the system is well documented and easy to updated or extend over time.
 
-Created a document for Non-Functional Requirements (Iteration 1): (9/30/2024)<br>
+Created a document for Non-Functional Requirements (Iteration 1): (09/30/2024)<br>
 Added non functional requirements in the document related to performance, reliability, and compatibility. These requirements outline how the system should behave under different conditions and ensure it is safe and dependable. This will help us build a strong foundation for the application as we move forward.
 
 Working on Non-Functional Requirements for Stability, Security, and Availability: (10/02/2024)<br>
@@ -250,7 +250,7 @@ Working on ER diagrams that illustrate how various entities in the Maryville Gro
 Reviewed the remaining information in Non functional requirements(iteration 1) for changes:- (10/9/2024) <br>
 I reviewed the non-functional requirements document(Iteration 1), focusing on scalability, usability, stability, and compliance. After identifying areas for improvement, I made changes to enhance performance, user experience, and system stability.  Additionally, I worked on ER diagrams for the data management plan document.
 
-Non-Functional Requirements (Iteration 2) Information Gathering:-10/09/2024<br>
+Non-Functional Requirements (Iteration 2) Information Gathering:-(10/09/2024)<br>
 we are in the process of systematically collecting data and feedback to refine our non-functional requirements. This phase involves gathering insights on system performance, security needs, and uptime expectations from stakeholders, user surveys, and preliminary testing. Our goal is to evaluate how well the system aligns with desired reliability, data protection standards, and availability targets under real-world conditions. This information will inform future iterations, ensuring our non-functional requirements are realistic and comprehensive in addressing potential challenges.
 
 Progress made on the Data Management Plan (10/11/2024):<br>
