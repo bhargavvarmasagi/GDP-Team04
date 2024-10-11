@@ -256,5 +256,10 @@ we are in the process of systematically collecting data and feedback to refine o
 Progress made on the Data Management Plan (10/11/2024): 
 Completed a summary of essential data fields and created a client-friendly overview of the ER Diagram. Formulated data security measures centered on access control and encryption. Aligned functional requirements with data storage solutions to ensure they meet project objectives."
 
+Non-Functional Requirements (Iteration 2) Information Gathering:- (10/11/2024)<br>
+we are in the process of systematically collecting data and feedback to refine our non-functional requirements. This phase involves gathering insights on system performance, security needs, and uptime expectations from stakeholders, user surveys, and preliminary testing. This information will inform future iterations, ensuring our non-functional requirements are realistic and comprehensive in addressing potential challenges.
+
+
+
 
 
