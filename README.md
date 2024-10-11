@@ -259,6 +259,10 @@ Completed a summary of essential data fields and created a client-friendly overv
 Non-Functional Requirements (Iteration 2) Information Gathering:- (10/11/2024)<br>
 we are in the process of systematically collecting data and feedback to refine our non-functional requirements. This phase involves gathering insights on system performance, security needs, and uptime expectations from stakeholders, user surveys, and preliminary testing. This information will inform future iterations, ensuring our non-functional requirements are realistic and comprehensive in addressing potential challenges.
 
+Non-Functional Requirements and Data Management Plan Progress:- (10/11/2024)<br>
+We are refining our non-functional requirements by gathering insights on system performance, security needs, and uptime expectations from stakeholders and user surveys. This information will inform future iterations for better alignment with project goals.<br>
+Additionally, we've completed a summary of essential data fields and a client-friendly ER Diagram overview. Data security measures focused on access control and encryption have been formulated, aligning functional requirements with data storage solutions.<br>
+
 
 
 
