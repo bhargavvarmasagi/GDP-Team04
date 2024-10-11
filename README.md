@@ -250,6 +250,9 @@ Working on ER diagrams that illustrate how various entities in the Maryville Gro
 Reviewed the remaining information in Non functional requirements(iteration 1) for changes:- (10/9/2024) <br>
 I reviewed the non-functional requirements document(Iteration 1), focusing on scalability, usability, stability, and compliance. After identifying areas for improvement, I made changes to enhance performance, user experience, and system stability.  Additionally, I worked on ER diagrams for the data management plan document.
 
+Non-Functional Requirements (Iteration 2) Information Gathering:-10/09/2024<br>
+we are in the process of systematically collecting data and feedback to refine our non-functional requirements. This phase involves gathering insights on system performance, security needs, and uptime expectations from stakeholders, user surveys, and preliminary testing. Our goal is to evaluate how well the system aligns with desired reliability, data protection standards, and availability targets under real-world conditions. This information will inform future iterations, ensuring our non-functional requirements are realistic and comprehensive in addressing potential challenges.
+
 
 
 
