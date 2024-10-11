@@ -165,7 +165,7 @@ Reviewed and refined prototype list for Maryville Grocery Delivery App. Focused 
 Research on non-functional requirements (Performance,reliability and security): (9/27/2024) <br>
 Researched non-functional requirements with a focus on performance, reliability, and security. The findings will support the app's design to enhance scalability, maintain availability, and safeguard user data. 
 
-Reviewed about the non-functional requirements for the Maryville Grocery Delivery App:(09/27/2024)
+Reviewed about the non-functional requirements for the Maryville Grocery Delivery App:(09/27/2024)<br>
 Looked into the non-functional requirements such as Accuracy, Efficiency, Scalability for the Maryville Grocery Delivery App.This requirements will help us to know about the accuracy of delivery tracking, optimizing the use of server and network resources, and prevent unnecessary costs or overuse as the system scales.
 
 Updated List of Proposed Prototypes : (09/27/2024)<br>
@@ -183,7 +183,7 @@ A prototype was developed to address the identified use cases on the user end. T
 Working on Prototype of Use Cases on Admin End: (09/30/2024)<br>
 A prototype was developed to address the identified use cases on the admin end. This process involved designing and refining admin interactions with the system to ensure effective functionality and management capabilities. The focus was on visualizing how admins will navigate the system based on key actions and administrative responsibilities. The prototype emphasizes core system functionalities such as dashboard access, managing user submissions, generating reports, and overseeing system operations.
 
-Analyzed about the importance of usability,accessibility and maintainability for the development: (09/30/2024)
+Analyzed about the importance of usability,accessibility and maintainability for the development: (09/30/2024)<br>
 Analyzing the significane of usablility, accessibility, maintainability in modern design,since they guarantee the ease of use, upkeep, and updates of systems over time. Ensuring whether the system is well documented and easy to updated or extend over time.
 
 Created a document for Non-Functional Requirements (Iteration 1): (9/30/2024)<br>
