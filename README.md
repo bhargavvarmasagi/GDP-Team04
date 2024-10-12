@@ -263,8 +263,11 @@ Non-Functional Requirements and Data Management Plan Progress:- (10/11/2024)<br>
 We are refining our non-functional requirements by gathering insights on system performance, security needs, and uptime expectations from stakeholders and user surveys. This information will inform future iterations for better alignment with project goals.<br>
 Additionally, we've completed a summary of essential data fields and a client-friendly ER Diagram overview. Data security measures focused on access control and encryption have been formulated, aligning functional requirements with data storage solutions.<br>
 
-Worked on ER diagram of Data Management Plan (Iteration 1):- (10/11/2024)
-Completed ER diagram for the Data Management Plan as part of Iteration 1. Created a detailed wiki page for the Data Management Plan and added all final information. Additionally, reviewed and validated the Non-Functional Requirements list to ensure accuracy and alignment with project objectives.
+Worked on ER diagram of Data Management Plan (Iteration 1):- (10/11/2024)<br>
+Completed ER diagram for the Data Management Plan as part of Iteration 1. Created a detailed wiki page for the Data Management Plan and added all final information. Additionally, reviewed and validated the Non-Functional Requirements list to ensure accuracy and alignment with project objectives.<br>
+
+Added the summary of ER diagram and reviewed mapping of functional requirements:- (10/11/2024)<br>
+Worked on Data Management Plan iteration 1 document. Added a summary of the ER diagram and reviewed the mapping of functional requirements to data storage.  Prepared for further iterations based on these foundational elements. Incorporated feedback for improving data flow and security considerations.
 
 
 
