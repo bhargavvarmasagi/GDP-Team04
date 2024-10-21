@@ -272,6 +272,9 @@ Worked on Data Management Plan iteration 1 document. Added a summary of the ER d
 Reviewed Customers, Products, and Orders entities for potential changes:- (10/21/2024)<br>
 Checked the Customers, Products, and Orders entities to ensure proper relationships and attribute definitions. Reviewed the structure to identify any potential changes or improvements. Checked for consistency and completeness across all entities.<br>
 
+Checked Reviews, OrderItems, Delivery and Payments for the changes  :- (10/21/2024)<br>
+Reviewed the entities such as OrderItems, Delivery, Payments and Reviews and checked foreign key relationships between Orders, OrderItems, Delivery, and Payments.Ensured Reviews link correctly to Products and Customers through foreign keys.<br>
+
 
 
 
