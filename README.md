@@ -267,7 +267,11 @@ Worked on ER diagram of Data Management Plan (Iteration 1):- (10/11/2024)<br>
 Completed ER diagram for the Data Management Plan as part of Iteration 1. Created a detailed wiki page for the Data Management Plan and added all final information. Additionally, reviewed and validated the Non-Functional Requirements list to ensure accuracy and alignment with project objectives.<br>
 
 Added the summary of ER diagram and reviewed mapping of functional requirements:- (10/11/2024)<br>
-Worked on Data Management Plan iteration 1 document. Added a summary of the ER diagram and reviewed the mapping of functional requirements to data storage.  Prepared for further iterations based on these foundational elements. Incorporated feedback for improving data flow and security considerations.
+Worked on Data Management Plan iteration 1 document. Added a summary of the ER diagram and reviewed the mapping of functional requirements to data storage.  Prepared for further iterations based on these foundational elements. Incorporated feedback for improving data flow and security considerations.<br>
+
+Reviewed Customers, Products, and Orders entities for potential changes:- (10/21/2024)<br>
+Checked the Customers, Products, and Orders entities to ensure proper relationships and attribute definitions. Reviewed the structure to identify any potential changes or improvements. Checked for consistency and completeness across all entities.<br>
+
 
 
 
