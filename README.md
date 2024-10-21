@@ -275,6 +275,14 @@ Checked the Customers, Products, and Orders entities to ensure proper relationsh
 Checked Reviews, OrderItems, Delivery and Payments for the changes  :- (10/21/2024)<br>
 Reviewed the entities such as OrderItems, Delivery, Payments and Reviews and checked foreign key relationships between Orders, OrderItems, Delivery, and Payments.Ensured Reviews link correctly to Products and Customers through foreign keys.<br>
 
+Researched data management needs for Iteration 2 :- (10/21/2024) <br>
+Analyzed required data fields for Customers, Products, and Orders, reviewed ER Diagram, and explored security measures like access restrictions and encryption. Investigated how data storage aligns with functional requirements.<br>
+
+
+
+
+
+
 
 
 
