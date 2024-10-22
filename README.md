@@ -278,7 +278,8 @@ Reviewed the entities such as OrderItems, Delivery, Payments and Reviews and che
 Researched data management needs for Iteration 2 :- (10/21/2024) <br>
 Analyzed required data fields for Customers, Products, and Orders, reviewed ER Diagram, and explored security measures like access restrictions and encryption. Investigated how data storage aligns with functional requirements.<br>
 
-
+Researched data management requirements for Phase 2 :- (10/21/2024)
+Researched and analysis of data structures for Customer, Product, and Order entities. Reviewed entity relationships and data flow diagrams. Documented security considerations including access control and encryption protocols.
 
 
 
