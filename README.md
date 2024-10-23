@@ -284,6 +284,8 @@ Researched and analysis of data structures for Customer, Product, and Order enti
 Added new entities to the er diagram in data management plan :- (10/23/2024)
 I have added new entities to the ER diagram: Stores and Drivers. The Stores entity includes attributes such as StoreID, StoreName, and Location, while the Drivers entity includes DriverID, DriverName, and VehicleDetails. These additions help further define relationships in the system, such as linking products to stores and tracking deliveries with drivers.
 
+Worked on Data Management Plan (Iteration 2): (10/23/2024) <br>
+Currently working on the Data Management Plan as part of (Iteration 2). Drafting a document that includes relevant content and the Wiki URL. This phase involves determining what data to store and how to manage it. The plan will include a summary of the data fields, ER Diagram(s), initial security plans for the data, and a mapping of functional requirements to data storage. 
 
 
 
