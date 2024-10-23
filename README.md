@@ -281,6 +281,19 @@ Analyzed required data fields for Customers, Products, and Orders, reviewed ER D
 Researched data management requirements for Phase 2 :- (10/21/2024)
 Researched and analysis of data structures for Customer, Product, and Order entities. Reviewed entity relationships and data flow diagrams. Documented security considerations including access control and encryption protocols.
 
+Added new entities to the er diagram in data management plan :- (10/23/2024)
+I have added new entities to the ER diagram: Stores and Drivers. The Stores entity includes attributes such as StoreID, StoreName, and Location, while the Drivers entity includes DriverID, DriverName, and VehicleDetails. These additions help further define relationships in the system, such as linking products to stores and tracking deliveries with drivers.
+
+
+
+
+
+
+
+
+
+
+
 
 
 
