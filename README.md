@@ -293,6 +293,9 @@ This involves reviewing and structuring the document, which includes relevant co
 Checked the Mapping of Functional Requirements to Data Storage:- (10/23/2024)
 I reviewed the functional requirements mapping to data storage to determine if any changes are needed for the store catalog, including search and filtering features. Additionally, I reviewed the requirements for order tracking and delivery status updates, customer reviews, and payment processing. I also examined the dependency on GPS data stored in the Delivery Data to ensure accurate delivery estimates.
 
+Researched data management needs for Iteration 2 :- (10/23/2024) <br>
+Analyzed required data fields for Customers, Products, and Orders, reviewed ER Diagram, and explored security measures like access restrictions and encryption. Investigated how data storage aligns with functional requirements.<br>
+
 
 
 
