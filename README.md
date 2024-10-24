@@ -290,6 +290,9 @@ Currently working on the Data Management Plan as part of (Iteration 2). Drafting
 Analysis of Data Management Plan (Iteration 2): (10/23/2024)
 This involves reviewing and structuring the document, which includes relevant content and the Wiki URL. The analysis is focused on identifying the key data to be stored and determining how best to manage it. The plan will feature are A breakdown of the data fields.ER Diagram(s) to model data relationships.Initial data security measures and strategies.A mapping of functional requirements to appropriate data storage methods
 
+Checked the Mapping of Functional Requirements to Data Storage:- (10/23/2024)
+I reviewed the functional requirements mapping to data storage to determine if any changes are needed for the store catalog, including search and filtering features. Additionally, I reviewed the requirements for order tracking and delivery status updates, customer reviews, and payment processing. I also examined the dependency on GPS data stored in the Delivery Data to ensure accurate delivery estimates.
+
 
 
 
