@@ -299,6 +299,8 @@ Analyzed required data fields for Customers, Products, and Orders, reviewed ER D
 Checked the relationships between entities to make changes :- (10/25/2024)<br>
 Checked all relationships for optional many-to-one and one-to-many associations. Confirmed that all relationships correctly allow for optional entities in each case, except for Orders to Payments, which has been updated to a mandatory many-to-one relationship. Now, each order requires a payment. Specifically, customers can optionally have orders, products can optionally have reviews, and orders can optionally have deliveries. Ensured the design supports flexibility where needed, while enforcing mandatory payments for orders. Changes made as necessary.<br>
 
+Changes made according to the client requirement in the Data Management Plan:- (10/25/2024)<br>
+Changes have been made to the ER diagram for entities such as Orders, Stores, Deliveries, and Payments. The misplacement of foreign keys in the Orders and Payments entities has been corrected. Additionally, the entity names have been updated according to the client's requirements.Other entities were reviewed to identify and resolve any remaining mistakes.
 
 
 
