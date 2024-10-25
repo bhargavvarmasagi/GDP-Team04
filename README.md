@@ -296,6 +296,10 @@ I reviewed the functional requirements mapping to data storage to determine if a
 Researched data management needs for Iteration 2 :- (10/23/2024) <br>
 Analyzed required data fields for Customers, Products, and Orders, reviewed ER Diagram, and explored security measures like access restrictions and encryption. Investigated how data storage aligns with functional requirements.<br>
 
+Checked the relationships between entities to make changes :- (10/25/2024)<br>
+Checked all relationships for optional many-to-one and one-to-many associations. Confirmed that all relationships correctly allow for optional entities in each case, except for Orders to Payments, which has been updated to a mandatory many-to-one relationship. Now, each order requires a payment. Specifically, customers can optionally have orders, products can optionally have reviews, and orders can optionally have deliveries. Ensured the design supports flexibility where needed, while enforcing mandatory payments for orders. Changes made as necessary.<br>
+
+
 
 
 
