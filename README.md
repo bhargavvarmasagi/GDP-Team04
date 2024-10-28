@@ -302,8 +302,11 @@ Checked all relationships for optional many-to-one and one-to-many associations.
 Changes made according to the client requirement in the Data Management Plan:- (10/25/2024)<br>
 Changes have been made to the ER diagram for entities such as Orders, Stores, Deliveries, and Payments. The misplacement of foreign keys in the Orders and Payments entities has been corrected. Additionally, the entity names have been updated according to the client's requirements.Other entities were reviewed to identify and resolve any remaining mistakes.
 
-Client-Requested Updates in Data Management Plan (10/25/2024):
-Changes have been made to the ER diagram for entities such as user and Payments. The misplacement of foreign keys in the Orders and Payments entities has been corrected. Additionally, the entity names have been updated according to the client's requirements. Other entities were reviewed to identify and resolve any remaining mistakes.
+Client-Requested Updates in Data Management Plan (10/25/2024):<br>
+Changes have been made to the ER diagram for entities such as user and Payments. The misplacement of foreign keys in the Orders and Payments entities has been corrected. Additionally, the entity names have been updated according to the client's requirements. Other entities were reviewed to identify and resolve any remaining mistakes.<br>
+
+Researched suitable seed data types for our grocery delivery app (10/28/2024):<br>
+Researched suitable seed data types for our grocery delivery app. Reviewed options to ensure the data aligns with our schema and supports effective testing. Prepared to implement data that covers essential features like product listings, user accounts, and orders.
 
 
 
