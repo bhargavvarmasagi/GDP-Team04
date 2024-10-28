@@ -315,6 +315,9 @@ Adjustments to the ER diagram for improved data structure clarity.
 Correction of foreign key placements within the Orders and Payments entities, ensuring accurate relational mapping.
 Updated entity names to reflect client terminology preferences.
 
+Researched best practices for creating and using seed data:- (10/28/2024)<br>
+Explored methods for generating seed data for testing environments, ensuring no impact on production data. Focused on creating SQL dump files for relational databases and JSON formats for non-relational databases like MongoDB. Reviewed strategies for aligning seed data with database schemas to ensure compatibility. <br>
+
 
 
 
