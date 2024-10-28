@@ -308,6 +308,13 @@ Changes have been made to the ER diagram for entities such as user and Payments.
 Researched suitable seed data types for our grocery delivery app (10/28/2024):<br>
 Researched suitable seed data types for our grocery delivery app. Reviewed options to ensure the data aligns with our schema and supports effective testing. Prepared to implement data that covers essential features like product listings, user accounts, and orders.
 
+Working on Seed Data for Testing (10/28/2024): <br>
+Created a complete set of seed data to support testing without using production data, based on our updated database schema.
+Addressed client-requested changes made on 10/25/2024, including:
+Adjustments to the ER diagram for improved data structure clarity.
+Correction of foreign key placements within the Orders and Payments entities, ensuring accurate relational mapping.
+Updated entity names to reflect client terminology preferences.
+
 
 
 
