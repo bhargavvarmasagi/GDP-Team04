@@ -321,6 +321,9 @@ Explored methods for generating seed data for testing environments, ensuring no 
 Analyzed suitable seed data types for our grocery delivery app (10/28/2024):
 Analyzed suitable seed data types for our grocery delivery app. Reviewed options to ensure the data aligns with our schema and supports effective testing. Prepared to implement data that covers essential features like product listings, user accounts, and orders.
 
+Adding seed data for Maryville Grocery Delivery App :- (10/28/2024)
+The seed data is provided in a SQL dump / JSON file, ensuring it can be easily loaded into the database. Instructions for loading the data have been included to guide through the process.The seed data aligns with the app’s description and is intended to support testing and development without impacting production data. This ensures that all experiments and tests can be conducted safely in a non-production environment.
+
 
 
 
