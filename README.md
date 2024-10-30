@@ -325,7 +325,10 @@ Adding seed data for Maryville Grocery Delivery App :- (10/28/2024)
 The seed data is provided in a SQL dump / JSON file, ensuring it can be easily loaded into the database. Instructions for loading the data have been included to guide through the process.The seed data aligns with the app’s description and is intended to support testing and development without impacting production data. This ensures that all experiments and tests can be conducted safely in a non-production environment.
 
 Worked on seed data types suitable for our grocery delivery app :-(10/30/2024)<br>
-Explored options to align the data closely with our schema, ensuring it would support comprehensive testing. Prepared to implement data covering essential features such as product listings, user accounts, and order details.
+Explored options to align the data closely with our schema, ensuring it would support comprehensive testing. Prepared to implement data covering essential features such as product listings, user accounts, and order details.<br>
+
+Reviewed client feedback on Data Management Plan (Iteration 2) :- (10/30/2024)<br>
+Reviewed client feedback on Data Management Plan(Iteration 2) and made necessary changes. Added GPS data attribute to the delivery entity for enhanced tracking and location accuracy. Revised documentation to align with the updated data structure.<br>
 
 
 
