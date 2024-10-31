@@ -336,6 +336,8 @@ Focusing on options that align with our schema and support effective testing. I'
 In-Progress: Schema-Aligned Seed Data for Grocery App (10/30/2024):
 Initialized seed data for the grocery delivery app to support core schema requirements, aiming to streamline testing and optimize the app's initial configuration. Data set includes comprehensive product listings, user account data, and sample orders to reflect real-world scenarios effectively. Adjustments made to ensure seamless schema alignment and data accuracy.
 
+Reviewed and updated instructions for testing and loading seed data in the Maryville Grocery Delivery App:- (10/30/2024)
+Reviewed on adding a SQL dump file containing test data that covers key entities in the app, such as products, users, orders, payment information, and delivery statuses, in alignment with the app’s functional requirements.Detailed loading instructions included to allow team members to quickly and easily populate their local database with the seed data for consistent testing.
 
 
 
