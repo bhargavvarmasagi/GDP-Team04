@@ -333,9 +333,8 @@ Reviewed client feedback on Data Management Plan(Iteration 2) and made necessary
 I'm currently analyzing suitable seed data types for our grocery delivery app :- (10/30/2024)<br>
 Focusing on options that align with our schema and support effective testing. I'm preparing to implement data that covers key features, including product listings, user accounts, and orders.
 
-
-
-
+In-Progress: Schema-Aligned Seed Data for Grocery App (10/30/2024):
+Initialized seed data for the grocery delivery app to support core schema requirements, aiming to streamline testing and optimize the app's initial configuration. Data set includes comprehensive product listings, user account data, and sample orders to reflect real-world scenarios effectively. Adjustments made to ensure seamless schema alignment and data accuracy.
 
 
 
