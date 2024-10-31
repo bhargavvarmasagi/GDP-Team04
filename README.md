@@ -330,6 +330,9 @@ Explored options to align the data closely with our schema, ensuring it would su
 Reviewed client feedback on Data Management Plan (Iteration 2) :- (10/30/2024)<br>
 Reviewed client feedback on Data Management Plan(Iteration 2) and made necessary changes. Added GPS data attribute to the delivery entity for enhanced tracking and location accuracy. Revised documentation to align with the updated data structure.<br>
 
+I'm currently analyzing suitable seed data types for our grocery delivery app :- (10/30/2024)<br>
+Focusing on options that align with our schema and support effective testing. I'm preparing to implement data that covers key features, including product listings, user accounts, and orders.
+
 
 
 
