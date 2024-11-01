@@ -1,5 +1,7 @@
 # GDPFALL2024 - GROUP 4 (Maryville Grocery Delivery App)
-Creation of repository :- Created a new repository for maryville grocery delivery app project and created wiki page for team collaboration.(09/04/2024)
+
+Creation of repository :- (09/04/2024) <br>
+Created a new repository for maryville grocery delivery app project and created wiki page for team collaboration.
 
 
 Project Flowchart:- (09/04/2024)<br>
@@ -278,19 +280,19 @@ Reviewed the entities such as OrderItems, Delivery, Payments and Reviews and che
 Researched data management needs for Iteration 2 :- (10/21/2024) <br>
 Analyzed required data fields for Customers, Products, and Orders, reviewed ER Diagram, and explored security measures like access restrictions and encryption. Investigated how data storage aligns with functional requirements.<br>
 
-Researched data management requirements for Phase 2 :- (10/21/2024)
+Researched data management requirements for Phase 2 :- (10/21/2024)<br>
 Researched and analysis of data structures for Customer, Product, and Order entities. Reviewed entity relationships and data flow diagrams. Documented security considerations including access control and encryption protocols.
 
-Added new entities to the er diagram in data management plan :- (10/23/2024)
+Added new entities to the er diagram in data management plan :- (10/23/2024)<br>
 I have added new entities to the ER diagram: Stores and Drivers. The Stores entity includes attributes such as StoreID, StoreName, and Location, while the Drivers entity includes DriverID, DriverName, and VehicleDetails. These additions help further define relationships in the system, such as linking products to stores and tracking deliveries with drivers.
 
-Worked on Data Management Plan (Iteration 2): (10/23/2024) <br>
+Worked on Data Management Plan (Iteration 2):- (10/23/2024) <br>
 Currently working on the Data Management Plan as part of (Iteration 2). Drafting a document that includes relevant content and the Wiki URL. This phase involves determining what data to store and how to manage it. The plan will include a summary of the data fields, ER Diagram(s), initial security plans for the data, and a mapping of functional requirements to data storage. 
 
-Analysis of Data Management Plan (Iteration 2): (10/23/2024)
+Analysis of Data Management Plan (Iteration 2):- (10/23/2024)<br>
 This involves reviewing and structuring the document, which includes relevant content and the Wiki URL. The analysis is focused on identifying the key data to be stored and determining how best to manage it. The plan will feature are A breakdown of the data fields.ER Diagram(s) to model data relationships.Initial data security measures and strategies.A mapping of functional requirements to appropriate data storage methods
 
-Checked the Mapping of Functional Requirements to Data Storage:- (10/23/2024)
+Checked the Mapping of Functional Requirements to Data Storage:- (10/23/2024)<br>
 I reviewed the functional requirements mapping to data storage to determine if any changes are needed for the store catalog, including search and filtering features. Additionally, I reviewed the requirements for order tracking and delivery status updates, customer reviews, and payment processing. I also examined the dependency on GPS data stored in the Delivery Data to ensure accurate delivery estimates.
 
 Researched data management needs for Iteration 2 :- (10/23/2024) <br>
@@ -302,13 +304,13 @@ Checked all relationships for optional many-to-one and one-to-many associations.
 Changes made according to the client requirement in the Data Management Plan:- (10/25/2024)<br>
 Changes have been made to the ER diagram for entities such as Orders, Stores, Deliveries, and Payments. The misplacement of foreign keys in the Orders and Payments entities has been corrected. Additionally, the entity names have been updated according to the client's requirements.Other entities were reviewed to identify and resolve any remaining mistakes.
 
-Client-Requested Updates in Data Management Plan (10/25/2024):<br>
+Client-Requested Updates in Data Management Plan:- (10/25/2024)<br>
 Changes have been made to the ER diagram for entities such as user and Payments. The misplacement of foreign keys in the Orders and Payments entities has been corrected. Additionally, the entity names have been updated according to the client's requirements. Other entities were reviewed to identify and resolve any remaining mistakes.<br>
 
-Researched suitable seed data types for our grocery delivery app (10/28/2024):<br>
+Researched suitable seed data types for our grocery delivery app :-(10/28/2024)<br>
 Researched suitable seed data types for our grocery delivery app. Reviewed options to ensure the data aligns with our schema and supports effective testing. Prepared to implement data that covers essential features like product listings, user accounts, and orders.
 
-Working on Seed Data for Testing (10/28/2024): <br>
+Working on Seed Data for Testing :- (10/28/2024)<br>
 Created a complete set of seed data to support testing without using production data, based on our updated database schema.
 Addressed client-requested changes made on 10/25/2024, including:
 Adjustments to the ER diagram for improved data structure clarity.
@@ -318,10 +320,10 @@ Updated entity names to reflect client terminology preferences.
 Researched best practices for creating and using seed data:- (10/28/2024)<br>
 Explored methods for generating seed data for testing environments, ensuring no impact on production data. Focused on creating SQL dump files for relational databases and JSON formats for non-relational databases like MongoDB. Reviewed strategies for aligning seed data with database schemas to ensure compatibility. <br>
 
-Analyzed suitable seed data types for our grocery delivery app (10/28/2024):
+Analyzed suitable seed data types for our grocery delivery app:- (10/28/2024)<br>
 Analyzed suitable seed data types for our grocery delivery app. Reviewed options to ensure the data aligns with our schema and supports effective testing. Prepared to implement data that covers essential features like product listings, user accounts, and orders.
 
-Adding seed data for Maryville Grocery Delivery App :- (10/28/2024)
+Adding seed data for Maryville Grocery Delivery App :- (10/28/2024)<br>
 The seed data is provided in a SQL dump / JSON file, ensuring it can be easily loaded into the database. Instructions for loading the data have been included to guide through the process.The seed data aligns with the app’s description and is intended to support testing and development without impacting production data. This ensures that all experiments and tests can be conducted safely in a non-production environment.
 
 Worked on seed data types suitable for our grocery delivery app :-(10/30/2024)<br>
@@ -333,13 +335,13 @@ Reviewed client feedback on Data Management Plan(Iteration 2) and made necessary
 I'm currently analyzing suitable seed data types for our grocery delivery app :- (10/30/2024)<br>
 Focusing on options that align with our schema and support effective testing. I'm preparing to implement data that covers key features, including product listings, user accounts, and orders.
 
-In-Progress: Schema-Aligned Seed Data for Grocery App (10/30/2024):
+In-Progress: Schema-Aligned Seed Data for Grocery App :- (10/30/2024)<br>
 Initialized seed data for the grocery delivery app to support core schema requirements, aiming to streamline testing and optimize the app's initial configuration. Data set includes comprehensive product listings, user account data, and sample orders to reflect real-world scenarios effectively. Adjustments made to ensure seamless schema alignment and data accuracy.
 
-Reviewed and updated instructions for testing and loading seed data in the Maryville Grocery Delivery App:- (10/30/2024)
+Reviewed and updated instructions for testing and loading seed data in the Maryville Grocery Delivery App:- (10/30/2024)<br>
 Reviewed on adding a SQL dump file containing test data that covers key entities in the app, such as products, users, orders, payment information, and delivery statuses, in alignment with the app’s functional requirements.Detailed loading instructions included to allow team members to quickly and easily populate their local database with the seed data for consistent testing.
 
-Worked on seed data types suitable for our grocery delivery app (10/30/2024):<br>
+Worked on seed data types suitable for our grocery delivery app:- (10/30/2024)<br>
 Investigated data options closely aligned with our schema to ensure they support effective testing. Prepared to implement data that encompasses core features such as product listings, user accounts, and order information.
 
 Seed Data Structuring for Schema Alignment :- (11/01/2024) <br>
@@ -348,10 +350,10 @@ Designed and structured initial seed data sets to align with our grocery deliver
 Created tables for Stores, Products, and Customers in an SQL dump file:- (11/01/2024)<br>
 I created Stores, Products, and Customers tables using sql queries in the SQL dump file. The Stores table includes StoreId, StoreName, Location, and ContactInfo. The Products table contains ProductId, ProductName, Category, Price, Description, and StockQuantity. The Customers table includes CustomerId, FirstName, LastName, Email, PhoneNumber, PasswordHash, and Address.<br>
 
-Inserted data into stores,products and customers tables:- (11/01/2024)<br>
+Inserted data into stores,products and customers tables:-(11/01/2024)<br>
 Added initial data to the stores, products, and customers tables using SQL insert queries. Each table has been populated with sample records according to schema specifications. This seed data will facilitate preliminary testing and verification of database interactions in the application.<br>
 
-In-Progress: Schema-Aligned Seed Data for Grocery App (11/01/2024):
+In-Progress: Schema-Aligned Seed Data for Grocery App:- (11/01/2024)<br>
 Initialized seed data for the grocery delivery app to support core schema requirements, aiming to streamline testing and optimize the app's initial configuration. Data set includes comprehensive product listings, user account data, and sample orders to reflect real-world scenarios effectively. Adjustments made to ensure seamless schema alignment and data accuracy.
 
 
