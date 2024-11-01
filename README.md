@@ -345,6 +345,9 @@ Investigated data options closely aligned with our schema to ensure they support
 Seed Data Structuring for Schema Alignment :- (11/01/2024) <br>
 Designed and structured initial seed data sets to align with our grocery delivery app schema, covering essential areas like product listings, user accounts, and orders to facilitate robust testing and validation. <br>
 
+Created tables for Stores, Products, and Customers in an SQL dump file:- (11/01/2024)
+I created Stores, Products, and Customers tables using sql queries in the SQL dump file. The Stores table includes StoreId, StoreName, Location, and ContactInfo. The Products table contains ProductId, ProductName, Category, Price, Description, and StockQuantity. The Customers table includes CustomerId, FirstName, LastName, Email, PhoneNumber, PasswordHash, and Address.
+
 
 
 
