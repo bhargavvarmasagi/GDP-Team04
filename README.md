@@ -342,6 +342,17 @@ Reviewed on adding a SQL dump file containing test data that covers key entities
 Worked on seed data types suitable for our grocery delivery app (10/30/2024):<br>
 Investigated data options closely aligned with our schema to ensure they support effective testing. Prepared to implement data that encompasses core features such as product listings, user accounts, and order information.
 
+Seed Data Structuring for Schema Alignment :- (11/01/2024) <br>
+Designed and structured initial seed data sets to align with our grocery delivery app schema, covering essential areas like product listings, user accounts, and orders to facilitate robust testing and validation. <br>
+
+
+
+
+
+
+
+
+
 
 
 
