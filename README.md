@@ -351,6 +351,9 @@ I created Stores, Products, and Customers tables using sql queries in the SQL du
 Inserted data into stores,products and customers tables:- (11/01/2024)<br>
 Added initial data to the stores, products, and customers tables using SQL insert queries. Each table has been populated with sample records according to schema specifications. This seed data will facilitate preliminary testing and verification of database interactions in the application.<br>
 
+In-Progress: Schema-Aligned Seed Data for Grocery App (11/01/2024):
+Initialized seed data for the grocery delivery app to support core schema requirements, aiming to streamline testing and optimize the app's initial configuration. Data set includes comprehensive product listings, user account data, and sample orders to reflect real-world scenarios effectively. Adjustments made to ensure seamless schema alignment and data accuracy.
+
 
 
 
