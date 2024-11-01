@@ -339,6 +339,9 @@ Initialized seed data for the grocery delivery app to support core schema requir
 Reviewed and updated instructions for testing and loading seed data in the Maryville Grocery Delivery App:- (10/30/2024)
 Reviewed on adding a SQL dump file containing test data that covers key entities in the app, such as products, users, orders, payment information, and delivery statuses, in alignment with the app’s functional requirements.Detailed loading instructions included to allow team members to quickly and easily populate their local database with the seed data for consistent testing.
 
+Worked on seed data types suitable for our grocery delivery app (10/30/2024):<br>
+Investigated data options closely aligned with our schema to ensure they support effective testing. Prepared to implement data that encompasses core features such as product listings, user accounts, and order information.
+
 
 
 
