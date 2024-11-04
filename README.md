@@ -359,6 +359,9 @@ Initialized seed data for the grocery delivery app to support core schema requir
 Reviewed first 3 prototypes in list of prototypes document to make changes :- (11/04/2024)<br>
 Reviewed initial prototypes for User Registration and Authentication, Store Catalog with Search & Filters, and Add to Cart & Checkout Flow. Checked for improvements or adjustments in core functionality and user experience. Modifications will be implemented as required based on findings.<br>
 
+Documented Prototypes for Maryville Grocery Delivery App for Iteration 2:-(11/04/2024)<br>
+Building on this research, I expanded the documentation with two additional prototypes focusing on the admin dashboard for inventory management and external API integration for product data. I also included a concluding section to summarize the objectives and scope of these prototypes.
+
 
 
 
