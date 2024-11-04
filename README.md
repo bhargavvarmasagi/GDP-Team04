@@ -362,6 +362,10 @@ Reviewed initial prototypes for User Registration and Authentication, Store Cata
 Documented Prototypes for Maryville Grocery Delivery App for Iteration 2:-(11/04/2024)<br>
 Building on this research, I expanded the documentation with two additional prototypes focusing on the admin dashboard for inventory management and external API integration for product data. I also included a concluding section to summarize the objectives and scope of these prototypes.
 
+Researched on List of proposed data types (Iteration 2):- (11/04/2024) <br>
+Analyzing project scope and drafting proposed prototypes for Iteration 2 deliverables. Focused on identifying achievable goals for upcoming deadlines, aligning with project expectations. Compiled notes on realistic features to balance progress with quality and ensure readiness for future development.
+
+
 
 
 
