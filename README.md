@@ -368,11 +368,14 @@ Analyzing project scope and drafting proposed prototypes for Iteration 2 deliver
 Reviewed other prototypes updates in the proposed prototypes document for Iteration 2 :- (11/04/2024) <br>
 Reviewed updates for the proposed prototypes include an order tracking interface that allows users to view their order status, customer reviews and ratings feature, enabling users to leave feedback and ratings on products.I also reviewed client feedback on the proposed prototypes and worked on adding order management and payment processing.
 
-Analysis on List of proposed data types (Iteration 2):- (11/04/2024)
+Analysis on List of proposed data types (Iteration 2):- (11/04/2024)<br>
 Focusing on identifying achievable goals for upcoming deadlines, aligning with project expectations for project to  list of proposed data types (Iteration 2) . Compiled notes on realistic features to balance progress with quality and ensure readiness for future development.
 
-Working on Problem Statement(Draft 2):- (11/06/2024)
+Working on Problem Statement(Draft 2):- (11/06/2024)<br>
 Drafted the problem statement based on the client’s description of the existing process. Focused on identifying inefficiencies and weaknesses, without suggesting any solutions. Added the problem statement page to the main wiki and ensured clarity and completeness.
+
+Worked on Problem Statement:- (11/06/2024)<br>
+Finalized the problem statement after thorough client discussions. Emphasized the inefficiencies in the current process and outlined the specific issues, ensuring the content is clear and thorough. The problem statement is now linked to the main wiki page for easy reference.
 
 
 
