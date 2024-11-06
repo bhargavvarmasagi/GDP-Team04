@@ -371,6 +371,9 @@ Reviewed updates for the proposed prototypes include an order tracking interface
 Analysis on List of proposed data types (Iteration 2):- (11/04/2024)
 Focusing on identifying achievable goals for upcoming deadlines, aligning with project expectations for project to  list of proposed data types (Iteration 2) . Compiled notes on realistic features to balance progress with quality and ensure readiness for future development.
 
+Working on Problem Statement(Draft 2):- (11/06/2024)
+Drafted the problem statement based on the client’s description of the existing process. Focused on identifying inefficiencies and weaknesses, without suggesting any solutions. Added the problem statement page to the main wiki and ensured clarity and completeness.
+
 
 
 
