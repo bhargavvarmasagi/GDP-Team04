@@ -377,8 +377,12 @@ Drafted the problem statement based on the client’s description of the existin
 Worked on Problem Statement:- (11/06/2024)<br>
 Finalized the problem statement after thorough client discussions. Emphasized the inefficiencies in the current process and outlined the specific issues, ensuring the content is clear and thorough. The problem statement is now linked to the main wiki page for easy reference.
 
-Creation of Problem Statement page: (11/06/2024)
-Created a page "Problem Statement (Draft 2)" detailing the inefficiencies in the client's current grocery delivery process, as discussed in our recent meeting. The page focuses on identifying specific flaws without proposing solutions, as per project guidelines. A link to this page has been added to the main Wiki page for easy access.
+Creation of Problem Statement page: (11/06/2024)<br>
+Created a page "Problem Statement (Draft 2)" detailing the inefficiencies in the client's current grocery delivery process, as discussed in our recent meeting. The page focuses on identifying specific flaws without proposing solutions, as per project guidelines. A link to this page has been added to the main Wiki page for easy access.<br>
+
+Created a wiki page for the list of proposed prototypes (Iteration 2): (11/06/2024) <br>
+Created a wiki page for the list of proposed prototypes for Iteration 2, reflecting the feedback provided for Iteration 1. The document has been updated to include the necessary changes, with a focus on adding payment processing as part of the new iteration. These changes aim to improve the overall user experience and align the project with client requirements. <br>
+
 
 
 
