@@ -383,7 +383,8 @@ Created a page "Problem Statement (Draft 2)" detailing the inefficiencies in the
 Created a wiki page for the list of proposed prototypes (Iteration 2): (11/06/2024) <br>
 Created a wiki page for the list of proposed prototypes for Iteration 2, reflecting the feedback provided for Iteration 1. The document has been updated to include the necessary changes, with a focus on adding payment processing as part of the new iteration. These changes aim to improve the overall user experience and align the project with client requirements. <br>
 
-
+Updates were made to the seed data according to the client’s requirements:- (11/06/2024) <br>
+I updated the seed data (Iteration 1) document based on client requirements. The client requested that data types be modified as necessary for certain attributes, according to the input data they’ll receive. In the customers table, the data type for the Address attribute was reviewed to ensure compatibility with the incoming data.<br>
 
 
 
