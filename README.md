@@ -386,6 +386,11 @@ Created a wiki page for the list of proposed prototypes for Iteration 2, reflect
 Updates were made to the seed data according to the client’s requirements:- (11/06/2024) <br>
 I updated the seed data (Iteration 1) document based on client requirements. The client requested that data types be modified as necessary for certain attributes, according to the input data they’ll receive. In the customers table, the data type for the Address attribute was reviewed to ensure compatibility with the incoming data.<br>
 
+Developed Problem Statement (Draft 2):- (11/08/2024) <br>
+Outlined the problem statement based on the client’s description of their current process, highlighting inefficiencies and weaknesses without proposing solutions. Added the draft to the main wiki, ensuring clear and concise documentation.
+
+
+
 
 
 
