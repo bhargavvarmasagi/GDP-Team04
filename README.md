@@ -389,6 +389,9 @@ I updated the seed data (Iteration 1) document based on client requirements. The
 Developed Problem Statement (Draft 2):- (11/08/2024) <br>
 Outlined the problem statement based on the client’s description of their current process, highlighting inefficiencies and weaknesses without proposing solutions. Added the draft to the main wiki, ensuring clear and concise documentation.
 
+Enhanced Problem Statement for Maryville Grocery Delivery App – Draft 2:- (11/08/2024)
+Updated Problem Statement (Draft 2) with refined objectives for addressing operational inefficiencies, customer dissatisfaction, and system scalability in the Maryville Grocery Delivery App. Enhanced Problem Statement (Draft 2) to detail specific objectives aimed at resolving operational inefficiencies, minimizing order errors, improving customer satisfaction through real-time tracking, and ensuring system scalability to accommodate future demand in the Maryville Grocery Delivery App.
+
 
 
 
