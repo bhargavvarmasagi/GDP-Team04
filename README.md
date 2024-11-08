@@ -395,6 +395,9 @@ Updated Problem Statement (Draft 2) with refined objectives for addressing opera
 Included issues with maintaining an up-to-date product catalog : (11/08/2024)<br>
 Included issues with maintaining an up-to-date product catalog, covering images, descriptions, and search functionality, in the problem statement. Highlighted issues such as outdated inventory information and difficulty in locating specific items, which can lead to order cancellations and reduced customer satisfaction. <br>
 
+Updated the draft problem statement to reflect current inventory problems:- (11/08/2024)<br>
+Information regarding problems resulting from manual inventory changes, including the possibility of out-of-stock items showing up as available, was added to the problem statement draft. Highlighted that in order to guarantee correct stock information, lower order cancellation rates, and raise customer happiness, real-time connection with shop inventory systems is essential.<br>
+
 
 
 
