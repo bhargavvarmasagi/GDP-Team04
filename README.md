@@ -392,6 +392,9 @@ Outlined the problem statement based on the client’s description of their curr
 Enhanced Problem Statement for Maryville Grocery Delivery App – Draft 2:- (11/08/2024)
 Updated Problem Statement (Draft 2) with refined objectives for addressing operational inefficiencies, customer dissatisfaction, and system scalability in the Maryville Grocery Delivery App. Enhanced Problem Statement (Draft 2) to detail specific objectives aimed at resolving operational inefficiencies, minimizing order errors, improving customer satisfaction through real-time tracking, and ensuring system scalability to accommodate future demand in the Maryville Grocery Delivery App.
 
+Included issues with maintaining an up-to-date product catalog : (11/08/2024)<br>
+Included issues with maintaining an up-to-date product catalog, covering images, descriptions, and search functionality, in the problem statement. Highlighted issues such as outdated inventory information and difficulty in locating specific items, which can lead to order cancellations and reduced customer satisfaction. <br>
+
 
 
 
