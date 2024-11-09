@@ -398,7 +398,8 @@ Included issues with maintaining an up-to-date product catalog, covering images,
 Updated the draft problem statement to reflect current inventory problems:- (11/08/2024)<br>
 Information regarding problems resulting from manual inventory changes, including the possibility of out-of-stock items showing up as available, was added to the problem statement draft. Highlighted that in order to guarantee correct stock information, lower order cancellation rates, and raise customer happiness, real-time connection with shop inventory systems is essential.<br>
 
-
+Problem Statement Development :– (11/08/2024) <br>
+Drafted the problem statement using the client's description of the current process. Concentrated on pinpointing inefficiencies and areas of weakness, refraining from proposing any solutions. Uploaded the problem statement page to the main wiki, ensuring it was clear and comprehensive.
 
 
 
