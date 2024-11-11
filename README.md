@@ -404,6 +404,9 @@ Drafted the problem statement using the client's description of the current proc
 Planning Wiki Structure for SRS Document :- (11/11/2024) <br>
 Researching and preparing to set up the Wiki as the SRS document. Outlining sections for Project Info, Design, Meeting Minutes, and Development. Will organize links to project details, use cases, and other essential content for improved clarity and navigation.
 
+Working on Software Requirement Specification - (11/11/2024)
+Setting up the Wiki to serve as the SRS document with a clear structure. Defining sections for Project Overview, Technical Design, Development Notes, and Meeting Records. Linking relevant content, including use cases and project specifications, for enhanced accessibility and organization. This setup aims to facilitate efficient navigation and team collaboration.
+
 
 
 
