@@ -401,6 +401,11 @@ Information regarding problems resulting from manual inventory changes, includin
 Problem Statement Development :– (11/08/2024) <br>
 Drafted the problem statement using the client's description of the current process. Concentrated on pinpointing inefficiencies and areas of weakness, refraining from proposing any solutions. Uploaded the problem statement page to the main wiki, ensuring it was clear and comprehensive.
 
+Planning Wiki Structure for SRS Document :- (11/11/2024) <br>
+Researching and preparing to set up the Wiki as the SRS document. Outlining sections for Project Info, Design, Meeting Minutes, and Development. Will organize links to project details, use cases, and other essential content for improved clarity and navigation.
+
+
+
 
 
 
