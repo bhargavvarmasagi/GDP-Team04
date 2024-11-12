@@ -410,6 +410,9 @@ Setting up the Wiki to serve as the SRS document with a clear structure. Definin
 Comprehensive Wiki Organization for SRS Document :- (11/11/2024)<br>
 Developing a structured Wiki framework to serve as the Software Requirements Specification (SRS) document. This outline will feature distinct sections for Project Overview, Technical Design, Development Notes, and Meeting Records, with integrated links to related content such as use cases and project specifications. This approach aims to improve content clarity, facilitate seamless navigation, and support collaborative efforts among team members.
 
+Added Project Charter and 'About the Developers' sections to the Project Information page :- (11/11/2024)<br>
+Added Project Charter and 'About the Developers' sections to the Project Information page in the Software Requirements Specification (SRS). These sections provide an overview of project goals and introduce the development team. Improves clarity and provides context for stakeholders reviewing the SRS.<br>
+
 
 
 
