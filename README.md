@@ -413,6 +413,9 @@ Developing a structured Wiki framework to serve as the Software Requirements Spe
 Added Project Charter and 'About the Developers' sections to the Project Information page :- (11/11/2024)<br>
 Added Project Charter and 'About the Developers' sections to the Project Information page in the Software Requirements Specification (SRS). These sections provide an overview of project goals and introduce the development team. Improves clarity and provides context for stakeholders reviewing the SRS.<br>
 
+Design content has been added to the Software Requirements Specification (SRS) wiki page:- (11/11/2024) <br>
+The problem statement has been added to the Project Information wiki page. The Design wiki page now includes content such as the Use Cases being implemented for the project and the Functional Requirements. Additionally, the Project Design wiki page is being integrated into the Software Requirements Specification (SRS) wiki page.<br>
+
 
 
 
