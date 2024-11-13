@@ -428,6 +428,9 @@ Working on final presentation slides and researching content:- (11/13/2024) <br>
 - Still refining details for Prototype demos, and Spring 2025 plans.
 - Ongoing research to ensure accuracy and completeness before final submission.
 
+Proposed prototypes have been added to the Design Contents page :- (11/13/2024)<br>
+The proposed prototypes for our Maryville Grocery Delivery App have been added to the design section of the Software Requirements Specification document.The layout was improved to include these additional elements. Increased clarity regarding data handling procedures and system performance.<br>
+
 
 
 
