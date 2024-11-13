@@ -423,6 +423,11 @@ Working on final presentation slides and researching content:- (11/13/2024)<br>
 - Currently preparing the final presentation slides for the GDP-I project.
 - Researching and gathering content for sections such as Problem Statement, Use Cases, Functional and Non-Functional Requirements, and Architecture Plan.<br>
 
+Working on final presentation slides and researching content:- (11/13/2024) <br>
+- Investigating relevant design patterns, technologies, and third-party libraries to include in the presentation.
+- Still refining details for Prototype demos, and Spring 2025 plans.
+- Ongoing research to ensure accuracy and completeness before final submission.
+
 
 
 
