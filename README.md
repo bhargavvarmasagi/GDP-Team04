@@ -419,6 +419,10 @@ The problem statement has been added to the Project Information wiki page. The D
 Added Non-Functional Requirements and Data Management Plan sections to the design :- (11/13/2024) <br>
 Added Non-Functional Requirements and Data Management Plan sections to the design page in the Software Requirements Specification. Enhanced layout to incorporate these new sections. Improved clarity around system performance and data handling practices.<br>
 
+Working on final presentation slides and researching content:- (11/13/2024)<br>
+- Currently preparing the final presentation slides for the GDP-I project.
+- Researching and gathering content for sections such as Problem Statement, Use Cases, Functional and Non-Functional Requirements, and Architecture Plan.<br>
+
 
 
 
