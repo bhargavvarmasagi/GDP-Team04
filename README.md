@@ -431,6 +431,10 @@ Working on final presentation slides and researching content:- (11/13/2024) <br>
 Proposed prototypes have been added to the Design Contents page :- (11/13/2024)<br>
 The proposed prototypes for our Maryville Grocery Delivery App have been added to the design section of the Software Requirements Specification document.The layout was improved to include these additional elements. Increased clarity regarding data handling procedures and system performance.<br>
 
+Comprehensive Wiki Organization for SRS Document :- (11/11/2024)<br>
+Developing a structured Wiki framework to serve as the Software Requirements Specification (SRS) document. This outline will feature distinct sections for Project Overview, Technical Design, Development Notes, and Meeting Records, with integrated links to related content such as use cases and project specifications. This approach aims to improve content clarity, facilitate seamless navigation, and support collaborative efforts among team members.
+
+
 
 
 
