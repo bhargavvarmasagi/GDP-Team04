@@ -434,6 +434,11 @@ The proposed prototypes for our Maryville Grocery Delivery App have been added t
 Comprehensive Wiki Organization for SRS Document :- (11/11/2024)<br>
 Developing a structured Wiki framework to serve as the Software Requirements Specification (SRS) document. This outline will feature distinct sections for Project Overview, Technical Design, Development Notes, and Meeting Records, with integrated links to related content such as use cases and project specifications. This approach aims to improve content clarity, facilitate seamless navigation, and support collaborative efforts among team members.
 
+Preparing final presentation slides and conducting research: (11/15/2024)
+Exploring various design patterns, technologies, and third-party libraries to enrich the presentation.
+Polishing the details for prototype demonstrations and mapping out plans for Spring 2025.
+Ensuring accuracy and completeness through continuous research and review before submission.
+
 
 
 
