@@ -445,6 +445,9 @@ Reviewed and refined the user interactions for the Maryville Grocery Delivery Ap
 Analyzing Final Functional Requirements List (Iteration 2 - Part 2):- (11/15/2024)
 Addressed error handling mechanisms and developed comprehensive notification features for order updates in the Maryville Grocery Delivery App. Finalized the functional requirements to support the app’s complete feature set. Ensured readiness for the next phase of development, focusing on stability and scalability for future enhancements.
 
+Added 'Client Meeting Minutes 1' to the Meeting Minutes content page:- (11/15/2024)
+Created a new wiki page for Meeting Minutes and added the content of the first Client Meeting Minutes. This page provides details about the questions raised by the client, the team's responses, decisions on what to present in the next meeting, and the team members who attended. And linked this wiki page to the Software Requirements Specification wiki page.
+
 
 
 
