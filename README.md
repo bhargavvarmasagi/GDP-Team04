@@ -442,11 +442,14 @@ Ensuring accuracy and completeness through continuous research and review before
 Analyzing Final Functional Requirements List (Iteration 2):- (11/15/2024)
 Reviewed and refined the user interactions for the Maryville Grocery Delivery App. Focused on enhancing the functionality of advanced search filters and real-time order tracking. Developed detailed specifications for payment gateway integrations to ensure secure transactions. Evaluated the system’s role-based access controls, defining permissions for customers, delivery agents, and administrators.
 
-Analyzing Final Functional Requirements List (Iteration 2 - Part 2):- (11/15/2024)
+Analyzing Final Functional Requirements List (Iteration 2 - Part 2):- (11/15/2024)<br>
 Addressed error handling mechanisms and developed comprehensive notification features for order updates in the Maryville Grocery Delivery App. Finalized the functional requirements to support the app’s complete feature set. Ensured readiness for the next phase of development, focusing on stability and scalability for future enhancements.
 
-Added 'Client Meeting Minutes 1' to the Meeting Minutes content page:- (11/15/2024)
-Created a new wiki page for Meeting Minutes and added the content of the first Client Meeting Minutes. This page provides details about the questions raised by the client, the team's responses, decisions on what to present in the next meeting, and the team members who attended. And linked this wiki page to the Software Requirements Specification wiki page.
+Added 'Client Meeting Minutes 1' to the Meeting Minutes content page:- (11/15/2024)<br>
+Created a new wiki page for Meeting Minutes and added the content of the first Client Meeting Minutes. This page provides details about the questions raised by the client, the team's responses, decisions on what to present in the next meeting, and the team members who attended. And linked this wiki page to the Software Requirements Specification wiki page.<br>
+
+Added the Meeting Minutes 2 section to the meeting minutes page :- (11/15/2024)<br>
+Added the Meeting Minutes 2 section to the meeting minutes page in the Software Requirements Specification (SRS). This section records important discussions, decisions, and action items from the second meeting. The update makes the SRS more complete by showing the latest progress.<br>
 
 
 
