@@ -451,6 +451,9 @@ Created a new wiki page for Meeting Minutes and added the content of the first C
 Added the Meeting Minutes 2 section to the meeting minutes page :- (11/15/2024)<br>
 Added the Meeting Minutes 2 section to the meeting minutes page in the Software Requirements Specification (SRS). This section records important discussions, decisions, and action items from the second meeting. The update makes the SRS more complete by showing the latest progress.<br>
 
+Added a web page for the final functional requirements list :- (11/18/2024)<br>
+Added a web page for the final functional requirements list for the project. Reviewed the iteration 2 document and incorporated additional requirements for store catalog, online ordering, and payment handling into the updated list. This ensures alignment with the project's evolving scope and goals. <br>
+
 
 
 
