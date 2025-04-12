@@ -1,0 +1,246 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="./css/nav.css">
+    <link rel="stylesheet" href="./css/style.css">
+    <link rel="stylesheet" href="./css/orders.css">
+    <link rel="stylesheet" href="./css/dashboard.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
+    <link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css" />
+    <script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
+    <style>
+        
+        .cart-sidebar {
+            position: fixed;
+            right: -400px;
+            top: 0;
+            width: 350px;
+            height: 100%;
+            background: #fff;
+            box-shadow: -4px 0 10px rgba(0, 0, 0, 0.1);
+            transition: right 0.3s ease-in-out;
+            padding: 20px;
+            overflow-y: auto;
+            z-index: 1000;
+        }
+        .cart-sidebar.open {
+            right: 0;
+        }
+        .cart-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            font-size: 1.2rem;
+            font-weight: bold;
+            padding-bottom: 10px;
+            border-bottom: 1px solid #ddd;
+        }
+        .cart-items {
+            margin-top: 15px;
+        }
+        .cart-item {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            padding: 10px 0;
+            border-bottom: 1px solid #ddd;
+        }
+        .cart-item img {
+            width: 50px;
+            height: 50px;
+            object-fit: cover;
+            margin-right: 10px;
+        }
+        .cart-total, .cart-tax {
+            font-size: 1.2rem;
+            font-weight: bold;
+            margin-top: 10px;
+            text-align: center;
+        }
+        .cart-buttons {
+            display: flex;
+            justify-content: space-between;
+            margin-top: 15px;
+        }
+        .cart-buttons button {
+            padding: 10px;
+            font-size: 1rem;
+            border: none;
+            cursor: pointer;
+        }
+        .checkout-btn {
+            background: #4CAF50;
+            color: white;
+            border: none;
+            padding: 8px 12px;
+            cursor: pointer;
+            border-radius: 4px;
+        }
+        .empty-cart-btn {
+            background: red;
+            color: white;
+            border: none;
+            padding: 8px 12px;
+            cursor: pointer;
+            border-radius: 4px;
+        }
+        .cart-close {
+            cursor: pointer;
+            font-size: 1.5rem;
+        }
+
+        .modal {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background: rgba(0, 0, 0, 0.6);
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            z-index: 9999;
+        }
+
+        .modal-content {
+            background: white;
+            border-radius: 12px;
+            overflow: hidden;
+            width: 90%;
+            max-width: 750px;
+            box-shadow: 0 0 20px rgba(0, 0, 0, 0.3);
+            position: relative;
+            animation: slideIn 0.4s ease-out;
+        }
+
+        .modal-content .close {
+            position: absolute;
+            top: 12px;
+            right: 16px;
+            font-size: 1.6rem;
+            color: #333;
+            cursor: pointer;
+            transition: color 0.2s ease;
+        }
+
+        .modal-content .close:hover {
+            color: crimson;
+        }
+
+        .modal-content h3 {
+            margin: 0;
+            padding: 16px;
+            background: #4CAF50;
+            color: white;
+            font-size: 1.3rem;
+            text-align: center;
+            font-weight: 600;
+        }
+
+        #trackMap {
+            width: 100%;
+            height: 400px;
+        }
+
+        @keyframes slideIn {
+            from {
+                opacity: 0;
+                transform: translateY(-30px);
+            }
+            to {
+                opacity: 1;
+                transform: translateY(0);
+            }
+        }
+
+    </style>
+    <script src="./scripts/auth.js"></script>
+</head>
+<body>
+    <nav class="navbar">
+        <div class="navbar-container">
+            <div class="logo">Maryville Mart</div>
+            <button class="mobile-nav-toggle" aria-label="Toggle navigation">
+                <span class="bar"></span>
+                <span class="bar"></span>
+                <span class="bar"></span>
+            </button>
+            <ul class="nav-links">
+                <li><a href="dashboard.html">Home</a></li>
+                <li><a href="#">Orders</a></li>
+                <li><a href="#" onclick="toggleCart()">Cart</a></li>
+                <li><a href="login.html">Profile</a></li>
+                <li><a href="#" onclick="logout()">Logout</a></li>
+            </ul>
+        </div>
+    </nav>
+
+        <!-- Sidebar Cart -->
+        <div class="cart-sidebar" id="cartSidebar">
+            <div class="cart-header">
+                <span>Your Cart</span>
+                <span class="cart-close" onclick="toggleCart()">&times;</span>
+            </div>
+            <div class="cart-items"></div>
+            <p class="cart-tax">Tax (10%): $0.00</p>
+            <p class="cart-total">Total: $0.00</p>
+            <div class="cart-buttons">
+                <button class="empty-cart-btn" onclick="emptyCart()">Empty</button>
+                <button class="checkout-btn" onclick="window.location.href='checkout.html'">Checkout</button>
+            </div>
+        </div>
+    
+        <div class="hero">
+            <div class="container">
+                <div class="breadcrumb">
+                    <a href="#">Home</a> / <a href="#">Orders</a>
+                </div>
+            </div>
+        </div>
+        <div class="order-history">
+            <h2>Your Order History</h2>
+            <div class="orders-container" id="order-history">
+               
+            </div>
+        </div>
+        
+
+        <div id="reviewModal" class="modal" style="display: none;">
+            <div class="modal-content">
+                <span class="close">&times;</span>
+                <h3>Rate & Review Product</h3>
+                <p id="productTitle"></p>
+
+                <div class="rating">
+                    <span class="star" data-value="1">&#9733;</span>
+                    <span class="star" data-value="2">&#9733;</span>
+                    <span class="star" data-value="3">&#9733;</span>
+                    <span class="star" data-value="4">&#9733;</span>
+                    <span class="star" data-value="5">&#9733;</span>
+                </div>
+
+                <textarea id="reviewText" placeholder="Write your review..."></textarea>
+                <button id="submitReview">Submit</button>
+            </div>
+        </div>
+
+        <div id="trackMapModal" class="modal" style="display:none;">
+            <div class="modal-content" style="width: 90%; max-width: 700px;">
+              <span class="close" onclick="document.getElementById('trackMapModal').style.display='none'">&times;</span>
+              <h3>Tracking Delivery</h3>
+              <div id="trackMap" style="width:100%; height:400px;"></div>
+            </div>
+        </div>
+
+        
+    
+    
+    <script src="./scripts/orders.js"></script>
+    <script src="https://kit.fontawesome.com/f8e1a90484.js" crossorigin="anonymous"></script>
+    <script type="module" src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.esm.js"></script>
+    <script nomodule src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.js"></script>
+</body>
+</html>

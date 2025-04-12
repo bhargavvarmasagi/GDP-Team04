@@ -1,0 +1,264 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="./css/nav.css">
+    <link rel="stylesheet" href="./css/style.css">
+    <link rel="stylesheet" href="./css/dashboard.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
+    <style>
+        
+        .cart-sidebar {
+            position: fixed;
+            right: -400px;
+            top: 0;
+            width: 350px;
+            height: 100%;
+            background: #fff;
+            box-shadow: -4px 0 10px rgba(0, 0, 0, 0.1);
+            transition: right 0.3s ease-in-out;
+            padding: 20px;
+            overflow-y: auto;
+            z-index: 1000;
+        }
+        .cart-sidebar.open {
+            right: 0;
+        }
+        .cart-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            font-size: 1.2rem;
+            font-weight: bold;
+            padding-bottom: 10px;
+            border-bottom: 1px solid #ddd;
+        }
+        .cart-items {
+            margin-top: 15px;
+        }
+        .cart-item {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            padding: 10px 0;
+            border-bottom: 1px solid #ddd;
+        }
+        .cart-item img {
+            width: 50px;
+            height: 50px;
+            object-fit: cover;
+            margin-right: 10px;
+        }
+        .cart-total, .cart-tax {
+            font-size: 1.2rem;
+            font-weight: bold;
+            margin-top: 10px;
+            text-align: center;
+        }
+        .cart-buttons {
+            display: flex;
+            justify-content: space-between;
+            margin-top: 15px;
+        }
+        .cart-buttons button {
+            padding: 10px;
+            font-size: 1rem;
+            border: none;
+            cursor: pointer;
+        }
+        .checkout-btn {
+            background: #4CAF50;
+            color: white;
+            border: none;
+            padding: 8px 12px;
+            cursor: pointer;
+            border-radius: 4px;
+        }
+        .empty-cart-btn {
+            background: red;
+            color: white;
+            border: none;
+            padding: 8px 12px;
+            cursor: pointer;
+            border-radius: 4px;
+        }
+        .cart-close {
+            cursor: pointer;
+            font-size: 1.5rem;
+        }
+
+        .stores {
+            padding: 2rem 0;
+            background: #46d37a49;
+            
+        }
+
+        .store-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(250px, 2fr));
+            gap: 2rem;
+            margin: 2rem;
+        }
+
+        .store-card {
+            background-image: url("./assets/store-img.jpeg");
+            background-size: cover;
+            background-position: center;
+            background-repeat: no-repeat;
+            background-color: rgba(255, 255, 255, 0.744);
+            background-blend-mode: overlay;
+            border-radius: 8px;
+            box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+            padding: 1.5rem;
+            transition: transform 0.3s ease;
+            cursor: pointer;
+            min-height: 200px;
+            display: flex;
+            flex-direction: column;
+            justify-content: flex-end;
+        }
+
+        .store-card:hover {
+            transform: translateY(-5px);
+        }
+
+        .store-name {
+            font-size: 1.2rem;
+            font-weight: bold;
+            margin-bottom: 0.5rem;
+        }
+
+        .store-location {
+            color: #000000;
+            margin-bottom: 0.5rem;
+        }
+
+        .store-status {
+            font-size: 1rem;
+            font-weight: bold;
+            color: #4CAF50;
+        }
+
+    </style>
+    <link rel="stylesheet" href="./css/popup.css">
+    <script src="./scripts/auth.js"></script>
+</head>
+<body>
+    <nav class="navbar">
+        <div class="navbar-container">
+            <div class="logo">Maryville Mart</div>
+            <button class="mobile-nav-toggle" aria-label="Toggle navigation">
+                <span class="bar"></span>
+                <span class="bar"></span>
+                <span class="bar"></span>
+            </button>
+            <ul class="nav-links">
+                <li><a href="#">Home</a></li>
+                <li><a href="orders.html">Orders</a></li>
+                <li><a href="#" onclick="toggleCart()">Cart</a></li>
+                <li><a href="login.html">Profile</a></li>
+                <li><a href="#" onclick="logout()">Logout</a></li>
+            </ul>
+        </div>
+    </nav>
+        <div class="header">
+            <div class="container">
+                <div class="search-bar">
+                    <input type="text" placeholder="Search products..." class="search-input">
+                    <select class="search-category">
+                        <option>Categories</option>
+                        <option>Electronics</option>
+                        <option>Decoration</option>
+                        <option>Computers</option>
+                        <option>Sports</option>
+                    </select>
+                    <button class="search-button"><i class="fas fa-search"></i></button>
+                </div>
+                <div class="wishlist">
+                    <button><i id="wishlist" class="fas fa-heart"></i></button>
+                </div>
+                <div class="cart">
+                    <button class="cart-button"><i class="fas fa-shopping-bag"></i> Cart</button>
+                </div>
+            </div>
+        </div>
+
+        <!-- Sidebar Cart -->
+        <div class="cart-sidebar" id="cartSidebar">
+            <div class="cart-header">
+                <span>Your Cart</span>
+                <span class="cart-close" onclick="toggleCart()">&times;</span>
+            </div>
+            <div class="cart-items"></div>
+            <p class="cart-tax">Tax (10%): $0.00</p>
+            <p class="cart-total">Total: $0.00</p>
+            <div class="cart-buttons">
+                <button class="empty-cart-btn" onclick="emptyCart()">Empty</button>
+                <button class="checkout-btn" id="checkout-btn" onclick="window.location.href='checkout.html'">Checkout</button>
+            </div>
+        </div>
+    
+        <div class="hero">
+            <div class="container">
+                <h2>Maryville Mart</h2>
+                <div class="breadcrumb">
+                    <a href="#">Home</a> / <a href="#"> Stores</a>
+                </div>
+            </div>
+        </div>
+
+        <div class="stores">
+            <div class="store-container">
+                <h2 style="display: block; padding-left: 30px;">Our Stores</h2>
+                <div id="storeContainer" class="store-grid"></div>
+            </div>
+        </div>
+        
+    
+        <div class="products">
+            <div class="container">
+                <div class="controls-right">
+                    <div class="sort-by">
+                        <span>Sort By:</span>
+                        <select>
+                            <option>Default</option>
+                            <option>Name (A - Z)</option>
+                            <option>Name (Z - A)</option>
+                            <option>Price (Low > High)</option>
+                            <option>Price (High > Low)</option>
+                            <option>Rating (Highest)</option>
+                            <option>Rating (Lowest)</option>
+                        </select>
+                    </div>
+                    <div class="show">
+                        <span>Show:</span>
+                        <select>
+                            <option>15</option>
+                            <option>25</option>
+                            <option>50</option>
+                            <option>75</option>
+                            <option>100</option>
+                        </select>
+                    </div>
+                </div>
+            </div>
+
+            <h2 style="display: block; margin-bottom: 50px; font-weight: bold; text-transform: uppercase; font-size: 32px;">Products</h2>
+            <div class="product-grid" id="productsContainer">
+                    
+            </div>
+            
+        </div>
+
+        <footer class="footer">
+            <p style="display: block; text-align: center;">Maryville Mart @2025</p>
+        </footer>
+    
+    <script src="./scripts/products.js"></script>
+    <script src="https://kit.fontawesome.com/f8e1a90484.js" crossorigin="anonymous"></script>
+    <script type="module" src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.esm.js"></script>
+    <script nomodule src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.js"></script>
+</body>
+</html>

@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Delivery Partner</title>
+    <link rel="stylesheet" href="./style.css">
+    <style>
+        .delivery-partner-email, .delivery-update-text{
+            padding: 10px;
+        }
+    </style>
+    
+    <script src="https://cdn.jsdelivr.net/npm/axios/dist/axios.min.js"></script>
+</head>
+<body>
+    <nav class="navbar">
+        <div class="navbar-container">
+            <div class="logo">Maryville Mart</div>
+            <button class="mobile-nav-toggle" aria-label="Toggle navigation">
+                <span class="bar"></span>
+                <span class="bar"></span>
+                <span class="bar"></span>
+            </button>
+            <ul class="nav-links">
+                <li><a href="#" onclick="logout()">Logout</a></li>
+            </ul>
+        </div>
+    </nav>
+    <div class="admin-orders-container">
+        <h2>Order Management</h2>
+        <table class="orders-table">
+            <thead>
+                <tr>
+                    <th>Order ID</th>
+                    <th>Order Date</th>
+                    <th>Customer</th>
+                    <th>Total Amount</th>
+                    <th>Payment Method</th>
+                    <th>Status</th>
+                    <th>Products</th>
+                    <th>Delivery Update</th>
+                    <th>Update Status</th>
+                </tr>
+            </thead>
+            <tbody id="ordersTableBody">
+                
+            </tbody>
+        </table>
+    </div>
+
+    <div id="formErrors"></div>
+
+
+    <script src="script.js"></script>
+</body>
+</html>

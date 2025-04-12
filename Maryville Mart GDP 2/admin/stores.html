@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Product Management</title>
+  <link rel="stylesheet" href="./css/style.css">
+  <link rel="stylesheet" href="./css/nav.css">
+  <script src="https://cdn.jsdelivr.net/npm/axios/dist/axios.min.js"></script>
+  <script src="./scripts/auth.js"></script>
+</head>
+<body>
+    <nav class="navbar">
+        <div class="navbar-container">
+            <div class="logo">Maryville Mart</div>
+            <button class="mobile-nav-toggle" aria-label="Toggle navigation">
+                <span class="bar"></span>
+                <span class="bar"></span>
+                <span class="bar"></span>
+            </button>
+            <ul class="nav-links">
+                <li><a href="dashboard.html">Home</a></li>
+                <li><a href="#" class="active">Store</a></li>
+                <li><a href="orders.html">Orders</a></li>
+                <li><a href="#" onclick="logout()">Logout</a></li>
+            </ul>
+        </div>
+    </nav>
+  <div class="container">
+    <h1>Store Management</h1>
+    <div class="form-container">
+      <h2>Add/Edit Store</h2>
+      <form id="storeForm">
+        <input type="hidden" id="storeId">
+        <div class="form-group">
+          <label for="name">Store Name</label>
+          <input type="text" name="StoreName" id="name" required>
+          <span class="error-message" id="nameError"></span>
+        </div>
+        <div class="form-group">
+          <label for="price">Location</label>
+          <input type="address" name="Location" id="location" required>
+          <span class="error-message" id="locationError"></span>
+        </div>
+        <div class="form-group">
+          <label for="storeId">Inventory Status</label>
+          <input name="InventoryStatus" type="text" id="status" required>
+          <span class="error-message" id="statusError"></span>
+        </div>
+        <div class="form-group">
+          <label for="stock">Contact Phone</label>
+          <input name="ContactPhone" type="number" id="phone" required>
+          <span class="error-message" id="phoneError"></span>
+        </div>
+        <div class="form-group">
+          <label for="category">Contact Email</label>
+          <input name="ContactEmail" type="text" id="email" required>
+          <span class="error-message" id="emailError"></span>
+        </div>
+        <button type="submit" id="submitBtn">Save Store</button>
+      </form>
+    </div>
+
+    <div class="store-list">
+      <h2>Store List</h2>
+      <table id="storeTable">
+        <thead>
+          <tr>
+            <th>Store Name</th>
+            <th>Location</th>
+            <th>Inventory Status</th>
+            <th>Contact Phone</th>
+            <th>Contact Email</th>
+            <th>Pending Orders</th>
+            <th>Completed Orders</th>
+            <th>Actions</th>
+          </tr>
+        </thead>
+        <tbody>
+
+        </tbody>
+      </table>
+    </div>
+  </div>
+
+  <script src="./scripts/store.js"></script>
+
+</body>
+</html>

@@ -1,0 +1,29 @@
+*, *:before, *:after {
+    box-sizing: border-box;
+  }
+  :root {
+    --gradient: linear-gradient(45deg, #ff3366, #ff6b6b, #4834d4, #686de0);
+    --glass-bg: rgba(255, 255, 255, 0.05);
+    --border: 1px solid rgba(255, 255, 255, 0.1);
+    --shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37);
+ }
+body, html {
+    height: 100%;
+}
+html {
+    overflow-y: scroll;
+}
+body {
+    background: #ffffff;
+    font-family: 'Poppins', sans-serif;
+    margin: 0; 
+    padding: 0;
+}
+a {
+    text-decoration: none;
+    color: #6ff654cd;
+    transition: 0.5s ease;
+}
+a:hover {
+    color: #7cee4fc0;
+}

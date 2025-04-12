@@ -1,0 +1,99 @@
+*, *:before, *:after {
+    box-sizing: border-box;
+  }
+  :root {
+    --gradient: linear-gradient(45deg, #ff3366, #ff6b6b, #4834d4, #686de0);
+    --glass-bg: rgba(255, 255, 255, 0.05);
+    --border: 1px solid rgba(255, 255, 255, 0.1);
+    --shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37);
+ }
+body, html {
+    height: 100%;
+}
+html {
+    overflow-y: scroll;
+}
+body {
+    background: #c1bdba;
+    font-family: 'Poppins', sans-serif;
+    background-image: url('../assets/home_bg.png');
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;; 
+    margin: 0; 
+    padding: 0;
+}
+a {
+    text-decoration: none;
+    color: #6ff654cd;
+    transition: 0.5s ease;
+}
+a:hover {
+    color: #7cee4fc0;
+}
+
+.section-title {
+    font-size: 3rem;
+}
+
+.section-description {
+    font-size: 1rem;
+    padding: 0 1rem;
+}
+
+section {
+    min-height: 100vh;
+    padding: 120px 5% 80px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    overflow: hidden;
+}
+
+section:nth-child(even) {
+    background: var(--section-bg);
+}
+
+.section-content {
+    max-width: 1400px;
+    width: 100%;
+    text-align: center;
+    position: relative;
+    z-index: 1;
+}
+
+.section-title {
+    font-size: 8vw;
+    font-weight: 800;
+    margin-bottom: 2rem;
+    background: var(--gradient);
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+    animation: gradient 8s linear infinite;
+    background-size: 300%;
+    line-height: 1.1;
+    text-transform: uppercase;
+    letter-spacing: -2px;
+}
+.section-sub-title{
+    font-size: 2vw;
+    font-weight: 500;
+    margin-bottom: 2rem;
+    color: #fff;
+    animation: gradient 8s linear infinite;
+    background-size: 300%;
+    line-height: 1.1;
+    text-transform: uppercase;
+    letter-spacing: -2px;
+}
+.section-description {
+    font-size: 1.2rem;
+    max-width: 800px;
+    margin: 0 auto;
+    line-height: 1.6;
+    opacity: 0.8;
+    color: white;
+}
